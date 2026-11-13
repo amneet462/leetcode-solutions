@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-13T09:24:08.063Z",
+  "updatedAt": "2026-11-13T09:25:12.558Z",
   "problems": [
     {
       "frontendId": "1",
@@ -504,6 +504,26 @@
           "path": "0209-minimum-size-subarray-sum/0209-minimum-size-subarray-sum.java",
           "sha": "0a2606e1eb690221702be6ceaa61a6e07cd4424e",
           "lastSyncedAt": "2026-11-13T09:20:04.658Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "239",
+      "title": "Sliding Window Maximum",
+      "slug": "sliding-window-maximum",
+      "problemName": "0239-sliding-window-maximum",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/sliding-window-maximum/",
+      "folderPath": "0239-sliding-window-maximum/",
+      "readmePath": "0239-sliding-window-maximum/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0239-sliding-window-maximum.java",
+          "path": "0239-sliding-window-maximum/0239-sliding-window-maximum.java",
+          "sha": "d3c9e5837c7d0e4c649263b2b5e8ecf660d76462",
+          "lastSyncedAt": "2026-11-13T09:25:12.558Z"
         }
       ]
     },
