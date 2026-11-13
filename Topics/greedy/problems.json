@@ -5,8 +5,28 @@
     "name": "Greedy",
     "tagId": "17"
   },
-  "updatedAt": "2026-11-13T09:08:25.744Z",
+  "updatedAt": "2026-11-13T09:18:44.033Z",
   "problems": [
+    {
+      "frontendId": "55",
+      "title": "Jump Game",
+      "slug": "jump-game",
+      "problemName": "0055-jump-game",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/jump-game/",
+      "folderPath": "0055-jump-game/",
+      "readmePath": "0055-jump-game/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0055-jump-game.java",
+          "path": "0055-jump-game/0055-jump-game.java",
+          "sha": "2db468a94ba930a76d135c04d9651a8de4777286",
+          "lastSyncedAt": "2026-11-13T09:18:44.033Z"
+        }
+      ]
+    },
     {
       "frontendId": "402",
       "title": "Remove K Digits",
