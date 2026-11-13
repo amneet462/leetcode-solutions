@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "recursion",
+    "name": "Recursion",
+    "tagId": "31"
+  },
+  "updatedAt": "2026-11-13T03:31:42.833Z",
+  "problems": [
+    {
+      "frontendId": "394",
+      "title": "Decode String",
+      "slug": "decode-string",
+      "problemName": "0394-decode-string",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/decode-string/",
+      "folderPath": "0394-decode-string/",
+      "readmePath": "0394-decode-string/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0394-decode-string.java",
+          "path": "0394-decode-string/0394-decode-string.java",
+          "sha": "50fde2eabe16d2b4149d1752c40d119705286f72",
+          "lastSyncedAt": "2026-11-13T03:31:42.833Z"
+        }
+      ]
+    }
+  ]
+}
