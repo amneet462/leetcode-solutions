@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-13T09:28:27.025Z",
+  "updatedAt": "2026-11-13T09:28:43.206Z",
   "problems": [
     {
       "frontendId": "1",
@@ -384,6 +384,26 @@
           "path": "0088-merge-sorted-array/0088-merge-sorted-array.java",
           "sha": "e4220d3b0af1fd5da19296aa22c231027ff01ce2",
           "lastSyncedAt": "2026-11-13T09:09:14.580Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "90",
+      "title": "Subsets II",
+      "slug": "subsets-ii",
+      "problemName": "0090-subsets-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/subsets-ii/",
+      "folderPath": "0090-subsets-ii/",
+      "readmePath": "0090-subsets-ii/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0090-subsets-ii.java",
+          "path": "0090-subsets-ii/0090-subsets-ii.java",
+          "sha": "20814e080369143300cd62faa0dd66ebf96e5bf1",
+          "lastSyncedAt": "2026-11-13T09:28:43.206Z"
         }
       ]
     },
