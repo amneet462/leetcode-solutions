@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-11-13T09:09:48.677Z",
+  "updatedAt": "2026-11-13T09:29:24.595Z",
   "problems": [
     {
       "frontendId": "150",
@@ -44,6 +44,26 @@
           "path": "0202-happy-number/0202-happy-number.java",
           "sha": "c13d87ae60adca60b7f8653e2ba9f75c51f8aa8e",
           "lastSyncedAt": "2026-11-13T09:07:06.724Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1922",
+      "title": "Count Good Numbers",
+      "slug": "count-good-numbers",
+      "problemName": "1922-count-good-numbers",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/count-good-numbers/",
+      "folderPath": "1922-count-good-numbers/",
+      "readmePath": "1922-count-good-numbers/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1922-count-good-numbers.java",
+          "path": "1922-count-good-numbers/1922-count-good-numbers.java",
+          "sha": "a3e52a6d9c9d93ed04e3695c19f9a6b396c0ba31",
+          "lastSyncedAt": "2026-11-13T09:29:24.595Z"
         }
       ]
     }
