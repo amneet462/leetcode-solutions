@@ -5,7 +5,7 @@
     "name": "Sliding Window",
     "tagId": "55821"
   },
-  "updatedAt": "2026-11-13T09:31:08.823Z",
+  "updatedAt": "2026-11-13T09:31:19.921Z",
   "problems": [
     {
       "frontendId": "209",
@@ -84,6 +84,26 @@
           "path": "1004-max-consecutive-ones-iii/1004-max-consecutive-ones-iii.java",
           "sha": "b3ffc8b7e6ed5727131afb09d06f196f95529f0a",
           "lastSyncedAt": "2026-11-13T09:19:44.277Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1358",
+      "title": "Number of Substrings Containing All Three Characters",
+      "slug": "number-of-substrings-containing-all-three-characters",
+      "problemName": "1358-number-of-substrings-containing-all-three-characters",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/",
+      "folderPath": "1358-number-of-substrings-containing-all-three-characters/",
+      "readmePath": "1358-number-of-substrings-containing-all-three-characters/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1358-number-of-substrings-containing-all-three-characters.java",
+          "path": "1358-number-of-substrings-containing-all-three-characters/1358-number-of-substrings-containing-all-three-characters.java",
+          "sha": "8e69c1b818cbe0d0111b58c47ddab3273e5beb5a",
+          "lastSyncedAt": "2026-11-13T09:31:19.921Z"
         }
       ]
     },
