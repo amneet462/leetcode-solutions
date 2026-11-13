@@ -5,7 +5,7 @@
     "name": "Binary Tree",
     "tagId": "61057"
   },
-  "updatedAt": "2026-11-13T09:12:21.970Z",
+  "updatedAt": "2026-11-13T09:12:36.809Z",
   "problems": [
     {
       "frontendId": "114",
@@ -64,6 +64,26 @@
           "path": "0236-lowest-common-ancestor-of-a-binary-tree/0236-lowest-common-ancestor-of-a-binary-tree.java",
           "sha": "640c0cc2f1ab9b7896bb4cad8dad90cdc5e87e7c",
           "lastSyncedAt": "2026-11-13T09:10:13.166Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "297",
+      "title": "Serialize and Deserialize Binary Tree",
+      "slug": "serialize-and-deserialize-binary-tree",
+      "problemName": "0297-serialize-and-deserialize-binary-tree",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/serialize-and-deserialize-binary-tree/",
+      "folderPath": "0297-serialize-and-deserialize-binary-tree/",
+      "readmePath": "0297-serialize-and-deserialize-binary-tree/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0297-serialize-and-deserialize-binary-tree.java",
+          "path": "0297-serialize-and-deserialize-binary-tree/0297-serialize-and-deserialize-binary-tree.java",
+          "sha": "5969e8d3172b11a33f0140e188a223224ef18d35",
+          "lastSyncedAt": "2026-11-13T09:12:36.809Z"
         }
       ]
     },
