@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-13T09:19:44.277Z",
+  "updatedAt": "2026-11-13T09:19:58.903Z",
   "problems": [
     {
       "frontendId": "1",
@@ -344,6 +344,26 @@
           "path": "0410-split-array-largest-sum/0410-split-array-largest-sum.java",
           "sha": "5019fde4f1fa085fdb01c13773629cf1bd3357d1",
           "lastSyncedAt": "2026-11-13T09:19:20.734Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "485",
+      "title": "Max Consecutive Ones",
+      "slug": "max-consecutive-ones",
+      "problemName": "0485-max-consecutive-ones",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/max-consecutive-ones/",
+      "folderPath": "0485-max-consecutive-ones/",
+      "readmePath": "0485-max-consecutive-ones/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0485-max-consecutive-ones.java",
+          "path": "0485-max-consecutive-ones/0485-max-consecutive-ones.java",
+          "sha": "f1784e54bd56f4cdc66187822d77c2ac2f41aff0",
+          "lastSyncedAt": "2026-11-13T09:19:58.903Z"
         }
       ]
     },
