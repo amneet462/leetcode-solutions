@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-13T09:25:12.558Z",
+  "updatedAt": "2026-11-13T09:25:35.912Z",
   "problems": [
     {
       "frontendId": "1",
@@ -284,6 +284,26 @@
           "path": "0075-sort-colors/0075-sort-colors.java",
           "sha": "d033b38b63a1ee34dd693846d810f94d5a7061bf",
           "lastSyncedAt": "2026-11-13T09:08:43.251Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "85",
+      "title": "Maximal Rectangle",
+      "slug": "maximal-rectangle",
+      "problemName": "0085-maximal-rectangle",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/maximal-rectangle/",
+      "folderPath": "0085-maximal-rectangle/",
+      "readmePath": "0085-maximal-rectangle/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0085-maximal-rectangle.java",
+          "path": "0085-maximal-rectangle/0085-maximal-rectangle.java",
+          "sha": "eaa6b42a60f657555cd9fa2ac6acdd82ab447b73",
+          "lastSyncedAt": "2026-11-13T09:25:35.912Z"
         }
       ]
     },
