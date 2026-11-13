@@ -5,7 +5,7 @@
     "name": "Greedy",
     "tagId": "17"
   },
-  "updatedAt": "2026-11-13T09:19:01.190Z",
+  "updatedAt": "2026-11-13T09:19:20.734Z",
   "problems": [
     {
       "frontendId": "55",
@@ -64,6 +64,26 @@
           "path": "0402-remove-k-digits/0402-remove-k-digits.java",
           "sha": "b513dfbd4c9cd9a16b65e59290b0c5838af67665",
           "lastSyncedAt": "2026-11-13T09:01:36.722Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "410",
+      "title": "Split Array Largest Sum",
+      "slug": "split-array-largest-sum",
+      "problemName": "0410-split-array-largest-sum",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/split-array-largest-sum/",
+      "folderPath": "0410-split-array-largest-sum/",
+      "readmePath": "0410-split-array-largest-sum/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0410-split-array-largest-sum.java",
+          "path": "0410-split-array-largest-sum/0410-split-array-largest-sum.java",
+          "sha": "5019fde4f1fa085fdb01c13773629cf1bd3357d1",
+          "lastSyncedAt": "2026-11-13T09:19:20.734Z"
         }
       ]
     },
