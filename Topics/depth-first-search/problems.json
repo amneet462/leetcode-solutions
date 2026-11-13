@@ -5,7 +5,7 @@
     "name": "Depth-First Search",
     "tagId": "21"
   },
-  "updatedAt": "2026-11-13T09:15:27.218Z",
+  "updatedAt": "2026-11-13T09:15:49.956Z",
   "problems": [
     {
       "frontendId": "101",
@@ -384,6 +384,26 @@
           "path": "1020-number-of-enclaves/1020-number-of-enclaves.java",
           "sha": "d413a149cb2e9d7553a22c22935a2692bf749be7",
           "lastSyncedAt": "2026-11-13T09:05:48.634Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1325",
+      "title": "Delete Leaves With a Given Value",
+      "slug": "delete-leaves-with-a-given-value",
+      "problemName": "1325-delete-leaves-with-a-given-value",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/delete-leaves-with-a-given-value/",
+      "folderPath": "1325-delete-leaves-with-a-given-value/",
+      "readmePath": "1325-delete-leaves-with-a-given-value/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1325-delete-leaves-with-a-given-value.java",
+          "path": "1325-delete-leaves-with-a-given-value/1325-delete-leaves-with-a-given-value.java",
+          "sha": "3e2018d8f8c12330878cabe02864686d3d4ed50b",
+          "lastSyncedAt": "2026-11-13T09:15:49.956Z"
         }
       ]
     }
