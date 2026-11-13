@@ -5,7 +5,7 @@
     "name": "Binary Tree",
     "tagId": "61057"
   },
-  "updatedAt": "2026-11-13T09:15:27.218Z",
+  "updatedAt": "2026-11-13T09:15:49.956Z",
   "problems": [
     {
       "frontendId": "101",
@@ -324,6 +324,26 @@
           "path": "0987-vertical-order-traversal-of-a-binary-tree/0987-vertical-order-traversal-of-a-binary-tree.java",
           "sha": "435f8e601b2101324a24fddc49b09e1c446f4709",
           "lastSyncedAt": "2026-11-13T09:13:05.440Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1325",
+      "title": "Delete Leaves With a Given Value",
+      "slug": "delete-leaves-with-a-given-value",
+      "problemName": "1325-delete-leaves-with-a-given-value",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/delete-leaves-with-a-given-value/",
+      "folderPath": "1325-delete-leaves-with-a-given-value/",
+      "readmePath": "1325-delete-leaves-with-a-given-value/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1325-delete-leaves-with-a-given-value.java",
+          "path": "1325-delete-leaves-with-a-given-value/1325-delete-leaves-with-a-given-value.java",
+          "sha": "3e2018d8f8c12330878cabe02864686d3d4ed50b",
+          "lastSyncedAt": "2026-11-13T09:15:49.956Z"
         }
       ]
     }
