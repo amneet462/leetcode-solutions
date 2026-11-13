@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-11-13T09:19:01.190Z",
+  "updatedAt": "2026-11-13T09:19:20.734Z",
   "problems": [
     {
       "frontendId": "22",
@@ -124,6 +124,26 @@
           "path": "0392-is-subsequence/0392-is-subsequence.java",
           "sha": "17868225bb6aa3758346294a17d55930df33c075",
           "lastSyncedAt": "2026-11-13T09:08:05.665Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "410",
+      "title": "Split Array Largest Sum",
+      "slug": "split-array-largest-sum",
+      "problemName": "0410-split-array-largest-sum",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/split-array-largest-sum/",
+      "folderPath": "0410-split-array-largest-sum/",
+      "readmePath": "0410-split-array-largest-sum/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0410-split-array-largest-sum.java",
+          "path": "0410-split-array-largest-sum/0410-split-array-largest-sum.java",
+          "sha": "5019fde4f1fa085fdb01c13773629cf1bd3357d1",
+          "lastSyncedAt": "2026-11-13T09:19:20.734Z"
         }
       ]
     },
