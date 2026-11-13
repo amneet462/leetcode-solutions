@@ -5,8 +5,28 @@
     "name": "Quicksort",
     "tagId": "68362"
   },
-  "updatedAt": "2026-11-13T09:08:43.251Z",
+  "updatedAt": "2026-11-13T09:22:06.533Z",
   "problems": [
+    {
+      "frontendId": "56",
+      "title": "Merge Intervals",
+      "slug": "merge-intervals",
+      "problemName": "0056-merge-intervals",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/merge-intervals/",
+      "folderPath": "0056-merge-intervals/",
+      "readmePath": "0056-merge-intervals/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0056-merge-intervals.java",
+          "path": "0056-merge-intervals/0056-merge-intervals.java",
+          "sha": "9f17e69e492d4e760977918db19c4efa7febdb8b",
+          "lastSyncedAt": "2026-11-13T09:22:06.533Z"
+        }
+      ]
+    },
     {
       "frontendId": "75",
       "title": "Sort Colors",
