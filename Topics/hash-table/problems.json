@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-11-13T09:26:36.845Z",
+  "updatedAt": "2026-11-13T09:28:16.402Z",
   "problems": [
     {
       "frontendId": "1",
@@ -44,6 +44,26 @@
           "path": "0017-letter-combinations-of-a-phone-number/0017-letter-combinations-of-a-phone-number.java",
           "sha": "401768f9352f088bada9c9c41b529b6dc311a70f",
           "lastSyncedAt": "2026-11-13T09:23:30.588Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "36",
+      "title": "Valid Sudoku",
+      "slug": "valid-sudoku",
+      "problemName": "0036-valid-sudoku",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/valid-sudoku/",
+      "folderPath": "0036-valid-sudoku/",
+      "readmePath": "0036-valid-sudoku/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0036-valid-sudoku.java",
+          "path": "0036-valid-sudoku/0036-valid-sudoku.java",
+          "sha": "a7d32669f47ea98ce4a92a25bf7cb1fe1b3c4715",
+          "lastSyncedAt": "2026-11-13T09:28:16.402Z"
         }
       ]
     },
