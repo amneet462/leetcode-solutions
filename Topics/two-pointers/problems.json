@@ -5,7 +5,7 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-11-13T09:08:15.092Z",
+  "updatedAt": "2026-11-13T09:08:25.744Z",
   "problems": [
     {
       "frontendId": "19",
@@ -144,6 +144,26 @@
           "path": "0680-valid-palindrome-ii/0680-valid-palindrome-ii.java",
           "sha": "add6a4c332c177dbc638e210f3c570568b2bd3a0",
           "lastSyncedAt": "2026-11-13T09:08:15.092Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "881",
+      "title": "Boats to Save People",
+      "slug": "boats-to-save-people",
+      "problemName": "0881-boats-to-save-people",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/boats-to-save-people/",
+      "folderPath": "0881-boats-to-save-people/",
+      "readmePath": "0881-boats-to-save-people/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0881-boats-to-save-people.java",
+          "path": "0881-boats-to-save-people/0881-boats-to-save-people.java",
+          "sha": "b7064e9aff3050690948369a4de222d9cca5651a",
+          "lastSyncedAt": "2026-11-13T09:08:25.744Z"
         }
       ]
     }
