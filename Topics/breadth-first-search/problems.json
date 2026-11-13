@@ -5,7 +5,7 @@
     "name": "Breadth-First Search",
     "tagId": "22"
   },
-  "updatedAt": "2026-11-13T03:34:38.913Z",
+  "updatedAt": "2026-11-13T03:34:51.711Z",
   "problems": [
     {
       "frontendId": "130",
@@ -64,6 +64,26 @@
           "path": "0210-course-schedule-ii/0210-course-schedule-ii.java",
           "sha": "4a7e70cc9f767c4c3daacecb76e79ffacda58f39",
           "lastSyncedAt": "2026-11-13T03:33:32.134Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "542",
+      "title": "01 Matrix",
+      "slug": "01-matrix",
+      "problemName": "0542-01-matrix",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/01-matrix/",
+      "folderPath": "0542-01-matrix/",
+      "readmePath": "0542-01-matrix/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0542-01-matrix.java",
+          "path": "0542-01-matrix/0542-01-matrix.java",
+          "sha": "eb63771af1d9379db2a34a5d4f5018520b8bd4f0",
+          "lastSyncedAt": "2026-11-13T03:34:51.711Z"
         }
       ]
     },
