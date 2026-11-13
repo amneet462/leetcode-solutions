@@ -5,7 +5,7 @@
     "name": "Graph Theory",
     "tagId": "24"
   },
-  "updatedAt": "2026-11-13T09:05:29.836Z",
+  "updatedAt": "2026-11-13T09:06:49.348Z",
   "problems": [
     {
       "frontendId": "207",
@@ -63,7 +63,7 @@
           "filename": "0547-number-of-provinces.java",
           "path": "0547-number-of-provinces/0547-number-of-provinces.java",
           "sha": "3acab996767e5866012a1a008607ce3e5dcf2107",
-          "lastSyncedAt": "2026-11-13T03:35:28.363Z"
+          "lastSyncedAt": "2026-11-13T09:06:49.348Z"
         }
       ]
     },
