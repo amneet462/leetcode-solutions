@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-13T09:30:07.288Z",
+  "updatedAt": "2026-11-13T09:30:15.268Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1164,6 +1164,26 @@
           "path": "1020-number-of-enclaves/1020-number-of-enclaves.java",
           "sha": "d413a149cb2e9d7553a22c22935a2692bf749be7",
           "lastSyncedAt": "2026-11-13T09:05:48.634Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1283",
+      "title": "Find the Smallest Divisor Given a Threshold",
+      "slug": "find-the-smallest-divisor-given-a-threshold",
+      "problemName": "1283-find-the-smallest-divisor-given-a-threshold",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/",
+      "folderPath": "1283-find-the-smallest-divisor-given-a-threshold/",
+      "readmePath": "1283-find-the-smallest-divisor-given-a-threshold/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1283-find-the-smallest-divisor-given-a-threshold.java",
+          "path": "1283-find-the-smallest-divisor-given-a-threshold/1283-find-the-smallest-divisor-given-a-threshold.java",
+          "sha": "5c6b5aac670a7019ef0144b173ee9e188c1289dc",
+          "lastSyncedAt": "2026-11-13T09:30:15.268Z"
         }
       ]
     },
