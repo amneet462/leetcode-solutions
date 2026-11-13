@@ -5,8 +5,28 @@
     "name": "Simulation",
     "tagId": "61055"
   },
-  "updatedAt": "2026-11-13T03:32:46.268Z",
+  "updatedAt": "2026-11-13T03:33:03.461Z",
   "problems": [
+    {
+      "frontendId": "682",
+      "title": "Baseball Game",
+      "slug": "baseball-game",
+      "problemName": "0682-baseball-game",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/baseball-game/",
+      "folderPath": "0682-baseball-game/",
+      "readmePath": "0682-baseball-game/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0682-baseball-game.java",
+          "path": "0682-baseball-game/0682-baseball-game.java",
+          "sha": "4f49ad1c311f2370b79db0fba0cf4219fc786b20",
+          "lastSyncedAt": "2026-11-13T03:33:03.461Z"
+        }
+      ]
+    },
     {
       "frontendId": "946",
       "title": "Validate Stack Sequences",
