@@ -5,8 +5,28 @@
     "name": "Stack",
     "tagId": "15"
   },
-  "updatedAt": "2026-11-13T03:33:03.461Z",
+  "updatedAt": "2026-11-13T03:33:13.152Z",
   "problems": [
+    {
+      "frontendId": "20",
+      "title": "Valid Parentheses",
+      "slug": "valid-parentheses",
+      "problemName": "0020-valid-parentheses",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/valid-parentheses/",
+      "folderPath": "0020-valid-parentheses/",
+      "readmePath": "0020-valid-parentheses/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0020-valid-parentheses.java",
+          "path": "0020-valid-parentheses/0020-valid-parentheses.java",
+          "sha": "c14c7bfacc4e211cc8eed1199ef87a122f3e305d",
+          "lastSyncedAt": "2026-11-13T03:33:13.152Z"
+        }
+      ]
+    },
     {
       "frontendId": "155",
       "title": "Min Stack",
