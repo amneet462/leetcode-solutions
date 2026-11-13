@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "greedy",
+    "name": "Greedy",
+    "tagId": "17"
+  },
+  "updatedAt": "2026-11-13T03:31:28.030Z",
+  "problems": [
+    {
+      "frontendId": "402",
+      "title": "Remove K Digits",
+      "slug": "remove-k-digits",
+      "problemName": "0402-remove-k-digits",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/remove-k-digits/",
+      "folderPath": "0402-remove-k-digits/",
+      "readmePath": "0402-remove-k-digits/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0402-remove-k-digits.java",
+          "path": "0402-remove-k-digits/0402-remove-k-digits.java",
+          "sha": "b513dfbd4c9cd9a16b65e59290b0c5838af67665",
+          "lastSyncedAt": "2026-11-13T03:31:28.030Z"
+        }
+      ]
+    }
+  ]
+}
