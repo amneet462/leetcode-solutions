@@ -5,7 +5,7 @@
     "name": "Graph Theory",
     "tagId": "24"
   },
-  "updatedAt": "2026-11-13T03:33:49.616Z",
+  "updatedAt": "2026-11-13T03:34:04.048Z",
   "problems": [
     {
       "frontendId": "207",
@@ -44,6 +44,26 @@
           "path": "0210-course-schedule-ii/0210-course-schedule-ii.java",
           "sha": "4a7e70cc9f767c4c3daacecb76e79ffacda58f39",
           "lastSyncedAt": "2026-11-13T03:33:32.134Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "785",
+      "title": "Is Graph Bipartite?",
+      "slug": "is-graph-bipartite",
+      "problemName": "0785-is-graph-bipartite",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/is-graph-bipartite/",
+      "folderPath": "0785-is-graph-bipartite/",
+      "readmePath": "0785-is-graph-bipartite/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0785-is-graph-bipartite.java",
+          "path": "0785-is-graph-bipartite/0785-is-graph-bipartite.java",
+          "sha": "60a6d8600fb98f3d1ee3bbcfff6c71a09942c825",
+          "lastSyncedAt": "2026-11-13T03:34:04.048Z"
         }
       ]
     }
