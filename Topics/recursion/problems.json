@@ -5,7 +5,7 @@
     "name": "Recursion",
     "tagId": "31"
   },
-  "updatedAt": "2026-11-13T09:28:03.068Z",
+  "updatedAt": "2026-11-13T09:29:24.595Z",
   "problems": [
     {
       "frontendId": "21",
@@ -84,6 +84,26 @@
           "path": "0394-decode-string/0394-decode-string.java",
           "sha": "50fde2eabe16d2b4149d1752c40d119705286f72",
           "lastSyncedAt": "2026-11-13T09:01:46.967Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1922",
+      "title": "Count Good Numbers",
+      "slug": "count-good-numbers",
+      "problemName": "1922-count-good-numbers",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/count-good-numbers/",
+      "folderPath": "1922-count-good-numbers/",
+      "readmePath": "1922-count-good-numbers/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1922-count-good-numbers.java",
+          "path": "1922-count-good-numbers/1922-count-good-numbers.java",
+          "sha": "a3e52a6d9c9d93ed04e3695c19f9a6b396c0ba31",
+          "lastSyncedAt": "2026-11-13T09:29:24.595Z"
         }
       ]
     }
