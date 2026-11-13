@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-13T09:19:20.734Z",
+  "updatedAt": "2026-11-13T09:19:35.859Z",
   "problems": [
     {
       "frontendId": "1",
@@ -444,6 +444,26 @@
           "path": "0739-daily-temperatures/0739-daily-temperatures.java",
           "sha": "716ef4cc1c08c6c2b2f6133c30595b40519fccda",
           "lastSyncedAt": "2026-11-13T09:03:59.636Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "875",
+      "title": "Koko Eating Bananas",
+      "slug": "koko-eating-bananas",
+      "problemName": "0875-koko-eating-bananas",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/koko-eating-bananas/",
+      "folderPath": "0875-koko-eating-bananas/",
+      "readmePath": "0875-koko-eating-bananas/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0875-koko-eating-bananas.java",
+          "path": "0875-koko-eating-bananas/0875-koko-eating-bananas.java",
+          "sha": "af3dd5a9df2cf86e48c509baafd4f9b7a6e45812",
+          "lastSyncedAt": "2026-11-13T09:19:35.859Z"
         }
       ]
     },
