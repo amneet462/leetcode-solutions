@@ -5,8 +5,28 @@
     "name": "Binary Tree",
     "tagId": "61057"
   },
-  "updatedAt": "2026-11-13T09:15:06.892Z",
+  "updatedAt": "2026-11-13T09:15:27.218Z",
   "problems": [
+    {
+      "frontendId": "101",
+      "title": "Symmetric Tree",
+      "slug": "symmetric-tree",
+      "problemName": "0101-symmetric-tree",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/symmetric-tree/",
+      "folderPath": "0101-symmetric-tree/",
+      "readmePath": "0101-symmetric-tree/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0101-symmetric-tree.java",
+          "path": "0101-symmetric-tree/0101-symmetric-tree.java",
+          "sha": "bf5518aa2b74e08cf2ad0b12669914bddd8109e2",
+          "lastSyncedAt": "2026-11-13T09:15:27.218Z"
+        }
+      ]
+    },
     {
       "frontendId": "103",
       "title": "Binary Tree Zigzag Level Order Traversal",
