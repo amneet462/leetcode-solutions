@@ -5,7 +5,7 @@
     "name": "Binary Tree",
     "tagId": "61057"
   },
-  "updatedAt": "2026-11-13T09:18:34.291Z",
+  "updatedAt": "2026-11-13T09:22:40.042Z",
   "problems": [
     {
       "frontendId": "98",
@@ -24,6 +24,26 @@
           "path": "0098-validate-binary-search-tree/0098-validate-binary-search-tree.java",
           "sha": "e9862b7495efd06afb18d85323c491258fe68d8f",
           "lastSyncedAt": "2026-11-13T09:17:52.523Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "100",
+      "title": "Same Tree",
+      "slug": "same-tree",
+      "problemName": "0100-same-tree",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/same-tree/",
+      "folderPath": "0100-same-tree/",
+      "readmePath": "0100-same-tree/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0100-same-tree.java",
+          "path": "0100-same-tree/0100-same-tree.java",
+          "sha": "fd1d40d5ee65a31a8d68e101f56c1a5b92c941e9",
+          "lastSyncedAt": "2026-11-13T09:22:40.042Z"
         }
       ]
     },
