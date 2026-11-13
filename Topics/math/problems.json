@@ -5,8 +5,28 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-11-13T09:07:06.724Z",
+  "updatedAt": "2026-11-13T09:09:48.677Z",
   "problems": [
+    {
+      "frontendId": "150",
+      "title": "Evaluate Reverse Polish Notation",
+      "slug": "evaluate-reverse-polish-notation",
+      "problemName": "0150-evaluate-reverse-polish-notation",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/evaluate-reverse-polish-notation/",
+      "folderPath": "0150-evaluate-reverse-polish-notation/",
+      "readmePath": "0150-evaluate-reverse-polish-notation/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0150-evaluate-reverse-polish-notation.java",
+          "path": "0150-evaluate-reverse-polish-notation/0150-evaluate-reverse-polish-notation.java",
+          "sha": "3a3c841425f22416fe2175011042b9bc0659dd42",
+          "lastSyncedAt": "2026-11-13T09:09:48.677Z"
+        }
+      ]
+    },
     {
       "frontendId": "202",
       "title": "Happy Number",
