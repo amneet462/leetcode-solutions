@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-13T09:29:40.552Z",
+  "updatedAt": "2026-11-13T09:29:51.316Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1184,6 +1184,26 @@
           "path": "2149-rearrange-array-elements-by-sign/2149-rearrange-array-elements-by-sign.java",
           "sha": "6fdd065a9d68e5f78d534c1f543d63802c164405",
           "lastSyncedAt": "2026-11-13T09:22:18.589Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2643",
+      "title": "Row With Maximum Ones",
+      "slug": "row-with-maximum-ones",
+      "problemName": "2643-row-with-maximum-ones",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/row-with-maximum-ones/",
+      "folderPath": "2643-row-with-maximum-ones/",
+      "readmePath": "2643-row-with-maximum-ones/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "2643-row-with-maximum-ones.java",
+          "path": "2643-row-with-maximum-ones/2643-row-with-maximum-ones.java",
+          "sha": "958a051b29c9c8d8674e939b2d730ea9b73a27e0",
+          "lastSyncedAt": "2026-11-13T09:29:51.316Z"
         }
       ]
     }
