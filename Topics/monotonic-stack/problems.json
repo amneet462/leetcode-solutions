@@ -5,7 +5,7 @@
     "name": "Monotonic Stack",
     "tagId": "61054"
   },
-  "updatedAt": "2026-11-13T03:31:28.030Z",
+  "updatedAt": "2026-11-13T03:31:53.215Z",
   "problems": [
     {
       "frontendId": "402",
@@ -24,6 +24,26 @@
           "path": "0402-remove-k-digits/0402-remove-k-digits.java",
           "sha": "b513dfbd4c9cd9a16b65e59290b0c5838af67665",
           "lastSyncedAt": "2026-11-13T03:31:28.030Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "901",
+      "title": "Online Stock Span",
+      "slug": "online-stock-span",
+      "problemName": "0901-online-stock-span",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/online-stock-span/",
+      "folderPath": "0901-online-stock-span/",
+      "readmePath": "0901-online-stock-span/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0901-online-stock-span.java",
+          "path": "0901-online-stock-span/0901-online-stock-span.java",
+          "sha": "c086464df7ef73698aab01a30acecdaa337d7f0c",
+          "lastSyncedAt": "2026-11-13T03:31:53.215Z"
         }
       ]
     }
