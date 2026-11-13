@@ -5,7 +5,7 @@
     "name": "Breadth-First Search",
     "tagId": "22"
   },
-  "updatedAt": "2026-11-13T09:06:49.348Z",
+  "updatedAt": "2026-11-13T09:09:59.121Z",
   "problems": [
     {
       "frontendId": "130",
@@ -164,6 +164,26 @@
           "path": "0785-is-graph-bipartite/0785-is-graph-bipartite.java",
           "sha": "60a6d8600fb98f3d1ee3bbcfff6c71a09942c825",
           "lastSyncedAt": "2026-11-13T09:05:29.836Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "958",
+      "title": "Check Completeness of a Binary Tree",
+      "slug": "check-completeness-of-a-binary-tree",
+      "problemName": "0958-check-completeness-of-a-binary-tree",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/check-completeness-of-a-binary-tree/",
+      "folderPath": "0958-check-completeness-of-a-binary-tree/",
+      "readmePath": "0958-check-completeness-of-a-binary-tree/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0958-check-completeness-of-a-binary-tree.java",
+          "path": "0958-check-completeness-of-a-binary-tree/0958-check-completeness-of-a-binary-tree.java",
+          "sha": "9345f77244b814d1d999e67d442e12611157e872",
+          "lastSyncedAt": "2026-11-13T09:09:59.121Z"
         }
       ]
     },
