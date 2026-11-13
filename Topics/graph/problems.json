@@ -5,7 +5,7 @@
     "name": "Graph Theory",
     "tagId": "24"
   },
-  "updatedAt": "2026-11-13T03:34:04.048Z",
+  "updatedAt": "2026-11-13T03:35:28.363Z",
   "problems": [
     {
       "frontendId": "207",
@@ -44,6 +44,26 @@
           "path": "0210-course-schedule-ii/0210-course-schedule-ii.java",
           "sha": "4a7e70cc9f767c4c3daacecb76e79ffacda58f39",
           "lastSyncedAt": "2026-11-13T03:33:32.134Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "547",
+      "title": "Number of Provinces",
+      "slug": "number-of-provinces",
+      "problemName": "0547-number-of-provinces",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-provinces/",
+      "folderPath": "0547-number-of-provinces/",
+      "readmePath": "0547-number-of-provinces/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0547-number-of-provinces.java",
+          "path": "0547-number-of-provinces/0547-number-of-provinces.java",
+          "sha": "3acab996767e5866012a1a008607ce3e5dcf2107",
+          "lastSyncedAt": "2026-11-13T03:35:28.363Z"
         }
       ]
     },
