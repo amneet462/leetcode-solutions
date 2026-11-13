@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-13T03:34:38.913Z",
+  "updatedAt": "2026-11-13T03:34:51.711Z",
   "problems": [
     {
       "frontendId": "1",
@@ -44,6 +44,26 @@
           "path": "0130-surrounded-regions/0130-surrounded-regions.java",
           "sha": "5d933cdec4b55933d14186b908a6cefa5a229ce2",
           "lastSyncedAt": "2026-11-13T03:34:38.913Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "542",
+      "title": "01 Matrix",
+      "slug": "01-matrix",
+      "problemName": "0542-01-matrix",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/01-matrix/",
+      "folderPath": "0542-01-matrix/",
+      "readmePath": "0542-01-matrix/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0542-01-matrix.java",
+          "path": "0542-01-matrix/0542-01-matrix.java",
+          "sha": "eb63771af1d9379db2a34a5d4f5018520b8bd4f0",
+          "lastSyncedAt": "2026-11-13T03:34:51.711Z"
         }
       ]
     },
