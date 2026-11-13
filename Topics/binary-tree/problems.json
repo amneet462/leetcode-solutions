@@ -5,7 +5,7 @@
     "name": "Binary Tree",
     "tagId": "61057"
   },
-  "updatedAt": "2026-11-13T09:13:40.414Z",
+  "updatedAt": "2026-11-13T09:13:52.289Z",
   "problems": [
     {
       "frontendId": "103",
@@ -144,6 +144,26 @@
           "path": "0297-serialize-and-deserialize-binary-tree/0297-serialize-and-deserialize-binary-tree.java",
           "sha": "5969e8d3172b11a33f0140e188a223224ef18d35",
           "lastSyncedAt": "2026-11-13T09:12:36.809Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "662",
+      "title": "Maximum Width of Binary Tree",
+      "slug": "maximum-width-of-binary-tree",
+      "problemName": "0662-maximum-width-of-binary-tree",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-width-of-binary-tree/",
+      "folderPath": "0662-maximum-width-of-binary-tree/",
+      "readmePath": "0662-maximum-width-of-binary-tree/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0662-maximum-width-of-binary-tree.java",
+          "path": "0662-maximum-width-of-binary-tree/0662-maximum-width-of-binary-tree.java",
+          "sha": "f3d758d73a0be10634e62b5751d81b7bbe70a9ff",
+          "lastSyncedAt": "2026-11-13T09:13:52.289Z"
         }
       ]
     },
