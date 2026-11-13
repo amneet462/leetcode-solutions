@@ -5,7 +5,7 @@
     "name": "Monotonic Stack",
     "tagId": "61054"
   },
-  "updatedAt": "2026-11-13T09:25:52.712Z",
+  "updatedAt": "2026-11-13T09:26:04.691Z",
   "problems": [
     {
       "frontendId": "42",
@@ -144,6 +144,26 @@
           "path": "1008-construct-binary-search-tree-from-preorder-traversal/1008-construct-binary-search-tree-from-preorder-traversal.java",
           "sha": "f6ffe30b3cd73c31a73295269be7d716b5d67bf8",
           "lastSyncedAt": "2026-11-13T09:18:04.203Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2104",
+      "title": "Sum of Subarray Ranges",
+      "slug": "sum-of-subarray-ranges",
+      "problemName": "2104-sum-of-subarray-ranges",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/sum-of-subarray-ranges/",
+      "folderPath": "2104-sum-of-subarray-ranges/",
+      "readmePath": "2104-sum-of-subarray-ranges/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "2104-sum-of-subarray-ranges.java",
+          "path": "2104-sum-of-subarray-ranges/2104-sum-of-subarray-ranges.java",
+          "sha": "ce52f58dbf92048b475c9271fea85f0278bb5d20",
+          "lastSyncedAt": "2026-11-13T09:26:04.691Z"
         }
       ]
     }
