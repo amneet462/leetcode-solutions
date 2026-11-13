@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-13T09:28:16.402Z",
+  "updatedAt": "2026-11-13T09:28:27.025Z",
   "problems": [
     {
       "frontendId": "1",
@@ -304,6 +304,26 @@
           "path": "0075-sort-colors/0075-sort-colors.java",
           "sha": "d033b38b63a1ee34dd693846d810f94d5a7061bf",
           "lastSyncedAt": "2026-11-13T09:08:43.251Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "79",
+      "title": "Word Search",
+      "slug": "word-search",
+      "problemName": "0079-word-search",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/word-search/",
+      "folderPath": "0079-word-search/",
+      "readmePath": "0079-word-search/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0079-word-search.java",
+          "path": "0079-word-search/0079-word-search.java",
+          "sha": "e08268ab45f1776aabce08f857633b41bc47fc80",
+          "lastSyncedAt": "2026-11-13T09:28:27.025Z"
         }
       ]
     },
