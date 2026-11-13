@@ -5,8 +5,28 @@
     "name": "Divide and Conquer",
     "tagId": "12"
   },
-  "updatedAt": "2026-11-13T09:14:35.913Z",
+  "updatedAt": "2026-11-13T09:14:52.705Z",
   "problems": [
+    {
+      "frontendId": "105",
+      "title": "Construct Binary Tree from Preorder and Inorder Traversal",
+      "slug": "construct-binary-tree-from-preorder-and-inorder-traversal",
+      "problemName": "0105-construct-binary-tree-from-preorder-and-inorder-traversal",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/",
+      "folderPath": "0105-construct-binary-tree-from-preorder-and-inorder-traversal/",
+      "readmePath": "0105-construct-binary-tree-from-preorder-and-inorder-traversal/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0105-construct-binary-tree-from-preorder-and-inorder-traversal.java",
+          "path": "0105-construct-binary-tree-from-preorder-and-inorder-traversal/0105-construct-binary-tree-from-preorder-and-inorder-traversal.java",
+          "sha": "5ed59266ec986e9e8a1810a9a01c90e85ef95a73",
+          "lastSyncedAt": "2026-11-13T09:14:52.705Z"
+        }
+      ]
+    },
     {
       "frontendId": "106",
       "title": "Construct Binary Tree from Inorder and Postorder Traversal",
