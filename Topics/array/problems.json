@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-13T09:31:00.076Z",
+  "updatedAt": "2026-11-13T09:31:08.823Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1244,6 +1244,26 @@
           "path": "1283-find-the-smallest-divisor-given-a-threshold/1283-find-the-smallest-divisor-given-a-threshold.java",
           "sha": "5c6b5aac670a7019ef0144b173ee9e188c1289dc",
           "lastSyncedAt": "2026-11-13T09:30:15.268Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1423",
+      "title": "Maximum Points You Can Obtain from Cards",
+      "slug": "maximum-points-you-can-obtain-from-cards",
+      "problemName": "1423-maximum-points-you-can-obtain-from-cards",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/",
+      "folderPath": "1423-maximum-points-you-can-obtain-from-cards/",
+      "readmePath": "1423-maximum-points-you-can-obtain-from-cards/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1423-maximum-points-you-can-obtain-from-cards.java",
+          "path": "1423-maximum-points-you-can-obtain-from-cards/1423-maximum-points-you-can-obtain-from-cards.java",
+          "sha": "bda0f07ec812fb916827023b71db2fbf1eeb5cd2",
+          "lastSyncedAt": "2026-11-13T09:31:08.823Z"
         }
       ]
     },
