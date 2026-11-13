@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "merge-sort",
+    "name": "Merge Sort",
+    "tagId": "61051"
+  },
+  "updatedAt": "2026-11-13T09:27:46.098Z",
+  "problems": [
+    {
+      "frontendId": "148",
+      "title": "Sort List",
+      "slug": "sort-list",
+      "problemName": "0148-sort-list",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/sort-list/",
+      "folderPath": "0148-sort-list/",
+      "readmePath": "0148-sort-list/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0148-sort-list.java",
+          "path": "0148-sort-list/0148-sort-list.java",
+          "sha": "f64714d6cf066a740c70a56664c29cb838f107c8",
+          "lastSyncedAt": "2026-11-13T09:27:46.098Z"
+        }
+      ]
+    }
+  ]
+}
