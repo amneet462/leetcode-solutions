@@ -5,7 +5,7 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-11-13T09:22:31.871Z",
+  "updatedAt": "2026-11-13T09:27:28.629Z",
   "problems": [
     {
       "frontendId": "11",
@@ -184,6 +184,26 @@
           "path": "0125-valid-palindrome/0125-valid-palindrome.java",
           "sha": "a880fd65699a50085eda3372987d6a091b8680c6",
           "lastSyncedAt": "2026-11-13T09:09:41.103Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "143",
+      "title": "Reorder List",
+      "slug": "reorder-list",
+      "problemName": "0143-reorder-list",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/reorder-list/",
+      "folderPath": "0143-reorder-list/",
+      "readmePath": "0143-reorder-list/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0143-reorder-list.java",
+          "path": "0143-reorder-list/0143-reorder-list.java",
+          "sha": "3b734cd5fa12a26744300e4fb2c2a8abca9d4de0",
+          "lastSyncedAt": "2026-11-13T09:27:28.629Z"
         }
       ]
     },
