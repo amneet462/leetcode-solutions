@@ -5,7 +5,7 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-11-13T09:07:57.376Z",
+  "updatedAt": "2026-11-13T09:08:05.665Z",
   "problems": [
     {
       "frontendId": "19",
@@ -84,6 +84,26 @@
           "path": "0287-find-the-duplicate-number/0287-find-the-duplicate-number.java",
           "sha": "72aa89c0b3a65d62c845b3bec6446eb5e8aae329",
           "lastSyncedAt": "2026-11-13T09:07:39.595Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "392",
+      "title": "Is Subsequence",
+      "slug": "is-subsequence",
+      "problemName": "0392-is-subsequence",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/is-subsequence/",
+      "folderPath": "0392-is-subsequence/",
+      "readmePath": "0392-is-subsequence/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0392-is-subsequence.java",
+          "path": "0392-is-subsequence/0392-is-subsequence.java",
+          "sha": "17868225bb6aa3758346294a17d55930df33c075",
+          "lastSyncedAt": "2026-11-13T09:08:05.665Z"
         }
       ]
     },
