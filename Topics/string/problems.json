@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "string",
+    "name": "String",
+    "tagId": "10"
+  },
+  "updatedAt": "2026-11-13T03:31:17.788Z",
+  "problems": [
+    {
+      "frontendId": "1209",
+      "title": "Remove All Adjacent Duplicates in String II",
+      "slug": "remove-all-adjacent-duplicates-in-string-ii",
+      "problemName": "1209-remove-all-adjacent-duplicates-in-string-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/",
+      "folderPath": "1209-remove-all-adjacent-duplicates-in-string-ii/",
+      "readmePath": "1209-remove-all-adjacent-duplicates-in-string-ii/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1209-remove-all-adjacent-duplicates-in-string-ii.java",
+          "path": "1209-remove-all-adjacent-duplicates-in-string-ii/1209-remove-all-adjacent-duplicates-in-string-ii.java",
+          "sha": "99cae580e28d67de9150aa90596476c2c6f34b44",
+          "lastSyncedAt": "2026-11-13T03:31:17.788Z"
+        }
+      ]
+    }
+  ]
+}
