@@ -5,8 +5,28 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-13T09:28:27.025Z",
+  "updatedAt": "2026-11-13T09:29:34.537Z",
   "problems": [
+    {
+      "frontendId": "8",
+      "title": "String to Integer (atoi)",
+      "slug": "string-to-integer-atoi",
+      "problemName": "0008-string-to-integer-atoi",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/string-to-integer-atoi/",
+      "folderPath": "0008-string-to-integer-atoi/",
+      "readmePath": "0008-string-to-integer-atoi/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0008-string-to-integer-atoi.java",
+          "path": "0008-string-to-integer-atoi/0008-string-to-integer-atoi.java",
+          "sha": "6d3d698b8b2fdd52004c3ec24ea488e47874f27d",
+          "lastSyncedAt": "2026-11-13T09:29:34.537Z"
+        }
+      ]
+    },
     {
       "frontendId": "17",
       "title": "Letter Combinations of a Phone Number",
