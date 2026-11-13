@@ -5,7 +5,7 @@
     "name": "Graph Coloring",
     "tagId": "69145"
   },
-  "updatedAt": "2026-11-13T03:34:04.048Z",
+  "updatedAt": "2026-11-13T09:05:29.836Z",
   "problems": [
     {
       "frontendId": "785",
@@ -23,7 +23,7 @@
           "filename": "0785-is-graph-bipartite.java",
           "path": "0785-is-graph-bipartite/0785-is-graph-bipartite.java",
           "sha": "60a6d8600fb98f3d1ee3bbcfff6c71a09942c825",
-          "lastSyncedAt": "2026-11-13T03:34:04.048Z"
+          "lastSyncedAt": "2026-11-13T09:05:29.836Z"
         }
       ]
     }
