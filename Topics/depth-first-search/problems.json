@@ -5,7 +5,7 @@
     "name": "Depth-First Search",
     "tagId": "21"
   },
-  "updatedAt": "2026-11-13T09:12:36.809Z",
+  "updatedAt": "2026-11-13T09:13:05.440Z",
   "problems": [
     {
       "frontendId": "114",
@@ -224,6 +224,26 @@
           "path": "0785-is-graph-bipartite/0785-is-graph-bipartite.java",
           "sha": "60a6d8600fb98f3d1ee3bbcfff6c71a09942c825",
           "lastSyncedAt": "2026-11-13T09:05:29.836Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "987",
+      "title": "Vertical Order Traversal of a Binary Tree",
+      "slug": "vertical-order-traversal-of-a-binary-tree",
+      "problemName": "0987-vertical-order-traversal-of-a-binary-tree",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/",
+      "folderPath": "0987-vertical-order-traversal-of-a-binary-tree/",
+      "readmePath": "0987-vertical-order-traversal-of-a-binary-tree/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0987-vertical-order-traversal-of-a-binary-tree.java",
+          "path": "0987-vertical-order-traversal-of-a-binary-tree/0987-vertical-order-traversal-of-a-binary-tree.java",
+          "sha": "435f8e601b2101324a24fddc49b09e1c446f4709",
+          "lastSyncedAt": "2026-11-13T09:13:05.440Z"
         }
       ]
     },
