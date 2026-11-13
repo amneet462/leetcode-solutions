@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-13T09:25:52.712Z",
+  "updatedAt": "2026-11-13T09:26:04.691Z",
   "problems": [
     {
       "frontendId": "1",
@@ -924,6 +924,26 @@
           "path": "1020-number-of-enclaves/1020-number-of-enclaves.java",
           "sha": "d413a149cb2e9d7553a22c22935a2692bf749be7",
           "lastSyncedAt": "2026-11-13T09:05:48.634Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2104",
+      "title": "Sum of Subarray Ranges",
+      "slug": "sum-of-subarray-ranges",
+      "problemName": "2104-sum-of-subarray-ranges",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/sum-of-subarray-ranges/",
+      "folderPath": "2104-sum-of-subarray-ranges/",
+      "readmePath": "2104-sum-of-subarray-ranges/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "2104-sum-of-subarray-ranges.java",
+          "path": "2104-sum-of-subarray-ranges/2104-sum-of-subarray-ranges.java",
+          "sha": "ce52f58dbf92048b475c9271fea85f0278bb5d20",
+          "lastSyncedAt": "2026-11-13T09:26:04.691Z"
         }
       ]
     },
