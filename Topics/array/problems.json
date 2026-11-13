@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-13T03:32:08.658Z",
+  "updatedAt": "2026-11-13T03:32:35.821Z",
   "problems": [
     {
       "frontendId": "739",
@@ -24,6 +24,26 @@
           "path": "0739-daily-temperatures/0739-daily-temperatures.java",
           "sha": "716ef4cc1c08c6c2b2f6133c30595b40519fccda",
           "lastSyncedAt": "2026-11-13T03:32:08.658Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "946",
+      "title": "Validate Stack Sequences",
+      "slug": "validate-stack-sequences",
+      "problemName": "0946-validate-stack-sequences",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/validate-stack-sequences/",
+      "folderPath": "0946-validate-stack-sequences/",
+      "readmePath": "0946-validate-stack-sequences/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0946-validate-stack-sequences.java",
+          "path": "0946-validate-stack-sequences/0946-validate-stack-sequences.java",
+          "sha": "50f14438150024bba6c731e41d534949f050373b",
+          "lastSyncedAt": "2026-11-13T03:32:35.821Z"
         }
       ]
     }
