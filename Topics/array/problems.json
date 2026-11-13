@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-13T09:30:15.268Z",
+  "updatedAt": "2026-11-13T09:30:23.770Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1184,6 +1184,26 @@
           "path": "1283-find-the-smallest-divisor-given-a-threshold/1283-find-the-smallest-divisor-given-a-threshold.java",
           "sha": "5c6b5aac670a7019ef0144b173ee9e188c1289dc",
           "lastSyncedAt": "2026-11-13T09:30:15.268Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1482",
+      "title": "Minimum Number of Days to Make m Bouquets",
+      "slug": "minimum-number-of-days-to-make-m-bouquets",
+      "problemName": "1482-minimum-number-of-days-to-make-m-bouquets",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/",
+      "folderPath": "1482-minimum-number-of-days-to-make-m-bouquets/",
+      "readmePath": "1482-minimum-number-of-days-to-make-m-bouquets/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1482-minimum-number-of-days-to-make-m-bouquets.java",
+          "path": "1482-minimum-number-of-days-to-make-m-bouquets/1482-minimum-number-of-days-to-make-m-bouquets.java",
+          "sha": "16e26fc59267f0fc6b3cf3014eab42618d8acb3d",
+          "lastSyncedAt": "2026-11-13T09:30:23.770Z"
         }
       ]
     },
