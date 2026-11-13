@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-13T03:32:19.547Z",
+  "updatedAt": "2026-11-13T03:32:46.268Z",
   "problems": [
     {
       "frontendId": "22",
@@ -84,6 +84,26 @@
           "path": "1209-remove-all-adjacent-duplicates-in-string-ii/1209-remove-all-adjacent-duplicates-in-string-ii.java",
           "sha": "99cae580e28d67de9150aa90596476c2c6f34b44",
           "lastSyncedAt": "2026-11-13T03:31:17.788Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2390",
+      "title": "Removing Stars From a String",
+      "slug": "removing-stars-from-a-string",
+      "problemName": "2390-removing-stars-from-a-string",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/removing-stars-from-a-string/",
+      "folderPath": "2390-removing-stars-from-a-string/",
+      "readmePath": "2390-removing-stars-from-a-string/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "2390-removing-stars-from-a-string.java",
+          "path": "2390-removing-stars-from-a-string/2390-removing-stars-from-a-string.java",
+          "sha": "c6a285ae86120eb812d96a6735e822147623f07a",
+          "lastSyncedAt": "2026-11-13T03:32:46.268Z"
         }
       ]
     }
