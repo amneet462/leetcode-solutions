@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-13T09:19:58.903Z",
+  "updatedAt": "2026-11-13T09:20:04.658Z",
   "problems": [
     {
       "frontendId": "1",
@@ -284,6 +284,26 @@
           "path": "0200-number-of-islands/0200-number-of-islands.java",
           "sha": "e46444d7a04ac7e65485ffa6d916100f514a2fe9",
           "lastSyncedAt": "2026-11-13T09:06:36.747Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "209",
+      "title": "Minimum Size Subarray Sum",
+      "slug": "minimum-size-subarray-sum",
+      "problemName": "0209-minimum-size-subarray-sum",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-size-subarray-sum/",
+      "folderPath": "0209-minimum-size-subarray-sum/",
+      "readmePath": "0209-minimum-size-subarray-sum/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0209-minimum-size-subarray-sum.java",
+          "path": "0209-minimum-size-subarray-sum/0209-minimum-size-subarray-sum.java",
+          "sha": "0a2606e1eb690221702be6ceaa61a6e07cd4424e",
+          "lastSyncedAt": "2026-11-13T09:20:04.658Z"
         }
       ]
     },
