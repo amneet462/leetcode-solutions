@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "binary-tree",
+    "name": "Binary Tree",
+    "tagId": "61057"
+  },
+  "updatedAt": "2026-11-13T09:09:59.121Z",
+  "problems": [
+    {
+      "frontendId": "958",
+      "title": "Check Completeness of a Binary Tree",
+      "slug": "check-completeness-of-a-binary-tree",
+      "problemName": "0958-check-completeness-of-a-binary-tree",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/check-completeness-of-a-binary-tree/",
+      "folderPath": "0958-check-completeness-of-a-binary-tree/",
+      "readmePath": "0958-check-completeness-of-a-binary-tree/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0958-check-completeness-of-a-binary-tree.java",
+          "path": "0958-check-completeness-of-a-binary-tree/0958-check-completeness-of-a-binary-tree.java",
+          "sha": "9345f77244b814d1d999e67d442e12611157e872",
+          "lastSyncedAt": "2026-11-13T09:09:59.121Z"
+        }
+      ]
+    }
+  ]
+}
