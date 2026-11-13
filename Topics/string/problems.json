@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-13T09:01:36.722Z",
+  "updatedAt": "2026-11-13T09:01:46.967Z",
   "problems": [
     {
       "frontendId": "20",
@@ -63,7 +63,7 @@
           "filename": "0394-decode-string.java",
           "path": "0394-decode-string/0394-decode-string.java",
           "sha": "50fde2eabe16d2b4149d1752c40d119705286f72",
-          "lastSyncedAt": "2026-11-13T03:31:42.833Z"
+          "lastSyncedAt": "2026-11-13T09:01:46.967Z"
         }
       ]
     },
