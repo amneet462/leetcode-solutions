@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-13T09:27:09.986Z",
+  "updatedAt": "2026-11-13T09:28:16.402Z",
   "problems": [
     {
       "frontendId": "1",
@@ -104,6 +104,26 @@
           "path": "0031-next-permutation/0031-next-permutation.java",
           "sha": "605a4886b4492e4c80f9b31b680f16433beceb92",
           "lastSyncedAt": "2026-11-13T09:19:11.431Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "36",
+      "title": "Valid Sudoku",
+      "slug": "valid-sudoku",
+      "problemName": "0036-valid-sudoku",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/valid-sudoku/",
+      "folderPath": "0036-valid-sudoku/",
+      "readmePath": "0036-valid-sudoku/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0036-valid-sudoku.java",
+          "path": "0036-valid-sudoku/0036-valid-sudoku.java",
+          "sha": "a7d32669f47ea98ce4a92a25bf7cb1fe1b3c4715",
+          "lastSyncedAt": "2026-11-13T09:28:16.402Z"
         }
       ]
     },
