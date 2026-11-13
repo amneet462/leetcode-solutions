@@ -5,7 +5,7 @@
     "name": "Breadth-First Search",
     "tagId": "22"
   },
-  "updatedAt": "2026-11-13T09:05:29.836Z",
+  "updatedAt": "2026-11-13T09:05:48.634Z",
   "problems": [
     {
       "frontendId": "130",
@@ -183,7 +183,7 @@
           "filename": "1020-number-of-enclaves.java",
           "path": "1020-number-of-enclaves/1020-number-of-enclaves.java",
           "sha": "d413a149cb2e9d7553a22c22935a2692bf749be7",
-          "lastSyncedAt": "2026-11-13T03:34:23.657Z"
+          "lastSyncedAt": "2026-11-13T09:05:48.634Z"
         }
       ]
     }
