@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-13T09:23:51.003Z",
+  "updatedAt": "2026-11-13T09:24:00.274Z",
   "problems": [
     {
       "frontendId": "1",
@@ -124,6 +124,26 @@
           "path": "0042-trapping-rain-water/0042-trapping-rain-water.java",
           "sha": "6b9c425d188e7c80cfe5878a917f639d1b9de8d6",
           "lastSyncedAt": "2026-11-13T09:07:28.343Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "46",
+      "title": "Permutations",
+      "slug": "permutations",
+      "problemName": "0046-permutations",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/permutations/",
+      "folderPath": "0046-permutations/",
+      "readmePath": "0046-permutations/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0046-permutations.java",
+          "path": "0046-permutations/0046-permutations.java",
+          "sha": "539d166c1616706f8f6c307f69b578a84752a16d",
+          "lastSyncedAt": "2026-11-13T09:24:00.274Z"
         }
       ]
     },
