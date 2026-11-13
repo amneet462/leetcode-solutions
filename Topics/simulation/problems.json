@@ -5,7 +5,7 @@
     "name": "Simulation",
     "tagId": "61055"
   },
-  "updatedAt": "2026-11-13T09:07:19.399Z",
+  "updatedAt": "2026-11-13T09:22:18.589Z",
   "problems": [
     {
       "frontendId": "682",
@@ -64,6 +64,26 @@
           "path": "0946-validate-stack-sequences/0946-validate-stack-sequences.java",
           "sha": "50f14438150024bba6c731e41d534949f050373b",
           "lastSyncedAt": "2026-11-13T09:04:23.063Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2149",
+      "title": "Rearrange Array Elements by Sign",
+      "slug": "rearrange-array-elements-by-sign",
+      "problemName": "2149-rearrange-array-elements-by-sign",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/rearrange-array-elements-by-sign/",
+      "folderPath": "2149-rearrange-array-elements-by-sign/",
+      "readmePath": "2149-rearrange-array-elements-by-sign/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "2149-rearrange-array-elements-by-sign.java",
+          "path": "2149-rearrange-array-elements-by-sign/2149-rearrange-array-elements-by-sign.java",
+          "sha": "6fdd065a9d68e5f78d534c1f543d63802c164405",
+          "lastSyncedAt": "2026-11-13T09:22:18.589Z"
         }
       ]
     },
