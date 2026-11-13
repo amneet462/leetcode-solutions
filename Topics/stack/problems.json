@@ -5,7 +5,7 @@
     "name": "Stack",
     "tagId": "15"
   },
-  "updatedAt": "2026-11-13T03:32:56.197Z",
+  "updatedAt": "2026-11-13T03:33:03.461Z",
   "problems": [
     {
       "frontendId": "155",
@@ -64,6 +64,26 @@
           "path": "0402-remove-k-digits/0402-remove-k-digits.java",
           "sha": "b513dfbd4c9cd9a16b65e59290b0c5838af67665",
           "lastSyncedAt": "2026-11-13T03:31:28.030Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "682",
+      "title": "Baseball Game",
+      "slug": "baseball-game",
+      "problemName": "0682-baseball-game",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/baseball-game/",
+      "folderPath": "0682-baseball-game/",
+      "readmePath": "0682-baseball-game/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0682-baseball-game.java",
+          "path": "0682-baseball-game/0682-baseball-game.java",
+          "sha": "4f49ad1c311f2370b79db0fba0cf4219fc786b20",
+          "lastSyncedAt": "2026-11-13T03:33:03.461Z"
         }
       ]
     },
