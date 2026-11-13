@@ -5,7 +5,7 @@
     "name": "Monotonic Stack",
     "tagId": "61054"
   },
-  "updatedAt": "2026-11-13T03:36:14.251Z",
+  "updatedAt": "2026-11-13T09:01:36.722Z",
   "problems": [
     {
       "frontendId": "42",
@@ -43,7 +43,7 @@
           "filename": "0402-remove-k-digits.java",
           "path": "0402-remove-k-digits/0402-remove-k-digits.java",
           "sha": "b513dfbd4c9cd9a16b65e59290b0c5838af67665",
-          "lastSyncedAt": "2026-11-13T03:31:28.030Z"
+          "lastSyncedAt": "2026-11-13T09:01:36.722Z"
         }
       ]
     },
