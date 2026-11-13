@@ -5,7 +5,7 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-11-13T09:22:18.589Z",
+  "updatedAt": "2026-11-13T09:22:31.871Z",
   "problems": [
     {
       "frontendId": "11",
@@ -64,6 +64,26 @@
           "path": "0019-remove-nth-node-from-end-of-list/0019-remove-nth-node-from-end-of-list.java",
           "sha": "8d40b70102a43afb5d55a22fa2a39c78abf73ba8",
           "lastSyncedAt": "2026-11-13T09:07:00.092Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "26",
+      "title": "Remove Duplicates from Sorted Array",
+      "slug": "remove-duplicates-from-sorted-array",
+      "problemName": "0026-remove-duplicates-from-sorted-array",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/remove-duplicates-from-sorted-array/",
+      "folderPath": "0026-remove-duplicates-from-sorted-array/",
+      "readmePath": "0026-remove-duplicates-from-sorted-array/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0026-remove-duplicates-from-sorted-array.java",
+          "path": "0026-remove-duplicates-from-sorted-array/0026-remove-duplicates-from-sorted-array.java",
+          "sha": "396a2e77165644eba8194cf7f83d54ea0608d696",
+          "lastSyncedAt": "2026-11-13T09:22:31.871Z"
         }
       ]
     },
