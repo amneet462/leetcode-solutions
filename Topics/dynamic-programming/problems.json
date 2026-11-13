@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-11-13T09:08:05.665Z",
+  "updatedAt": "2026-11-13T09:13:24.434Z",
   "problems": [
     {
       "frontendId": "22",
@@ -44,6 +44,26 @@
           "path": "0042-trapping-rain-water/0042-trapping-rain-water.java",
           "sha": "6b9c425d188e7c80cfe5878a917f639d1b9de8d6",
           "lastSyncedAt": "2026-11-13T09:07:28.343Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "124",
+      "title": "Binary Tree Maximum Path Sum",
+      "slug": "binary-tree-maximum-path-sum",
+      "problemName": "0124-binary-tree-maximum-path-sum",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/binary-tree-maximum-path-sum/",
+      "folderPath": "0124-binary-tree-maximum-path-sum/",
+      "readmePath": "0124-binary-tree-maximum-path-sum/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0124-binary-tree-maximum-path-sum.java",
+          "path": "0124-binary-tree-maximum-path-sum/0124-binary-tree-maximum-path-sum.java",
+          "sha": "573a57d96705f019f4aa163c599e4bf531a07e17",
+          "lastSyncedAt": "2026-11-13T09:13:24.434Z"
         }
       ]
     },
