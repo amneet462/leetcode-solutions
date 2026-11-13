@@ -5,8 +5,28 @@
     "name": "Matrix",
     "tagId": "61053"
   },
-  "updatedAt": "2026-11-13T09:25:35.912Z",
+  "updatedAt": "2026-11-13T09:28:16.402Z",
   "problems": [
+    {
+      "frontendId": "36",
+      "title": "Valid Sudoku",
+      "slug": "valid-sudoku",
+      "problemName": "0036-valid-sudoku",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/valid-sudoku/",
+      "folderPath": "0036-valid-sudoku/",
+      "readmePath": "0036-valid-sudoku/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0036-valid-sudoku.java",
+          "path": "0036-valid-sudoku/0036-valid-sudoku.java",
+          "sha": "a7d32669f47ea98ce4a92a25bf7cb1fe1b3c4715",
+          "lastSyncedAt": "2026-11-13T09:28:16.402Z"
+        }
+      ]
+    },
     {
       "frontendId": "85",
       "title": "Maximal Rectangle",
