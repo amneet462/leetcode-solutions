@@ -5,7 +5,7 @@
     "name": "Binary Search",
     "tagId": "11"
   },
-  "updatedAt": "2026-11-13T09:19:35.859Z",
+  "updatedAt": "2026-11-13T09:19:44.277Z",
   "problems": [
     {
       "frontendId": "167",
@@ -104,6 +104,26 @@
           "path": "0875-koko-eating-bananas/0875-koko-eating-bananas.java",
           "sha": "af3dd5a9df2cf86e48c509baafd4f9b7a6e45812",
           "lastSyncedAt": "2026-11-13T09:19:35.859Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1004",
+      "title": "Max Consecutive Ones III",
+      "slug": "max-consecutive-ones-iii",
+      "problemName": "1004-max-consecutive-ones-iii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/max-consecutive-ones-iii/",
+      "folderPath": "1004-max-consecutive-ones-iii/",
+      "readmePath": "1004-max-consecutive-ones-iii/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1004-max-consecutive-ones-iii.java",
+          "path": "1004-max-consecutive-ones-iii/1004-max-consecutive-ones-iii.java",
+          "sha": "b3ffc8b7e6ed5727131afb09d06f196f95529f0a",
+          "lastSyncedAt": "2026-11-13T09:19:44.277Z"
         }
       ]
     }
