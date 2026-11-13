@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-13T09:07:39.595Z",
+  "updatedAt": "2026-11-13T09:08:25.744Z",
   "problems": [
     {
       "frontendId": "1",
@@ -204,6 +204,26 @@
           "path": "0739-daily-temperatures/0739-daily-temperatures.java",
           "sha": "716ef4cc1c08c6c2b2f6133c30595b40519fccda",
           "lastSyncedAt": "2026-11-13T09:03:59.636Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "881",
+      "title": "Boats to Save People",
+      "slug": "boats-to-save-people",
+      "problemName": "0881-boats-to-save-people",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/boats-to-save-people/",
+      "folderPath": "0881-boats-to-save-people/",
+      "readmePath": "0881-boats-to-save-people/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0881-boats-to-save-people.java",
+          "path": "0881-boats-to-save-people/0881-boats-to-save-people.java",
+          "sha": "b7064e9aff3050690948369a4de222d9cca5651a",
+          "lastSyncedAt": "2026-11-13T09:08:25.744Z"
         }
       ]
     },
