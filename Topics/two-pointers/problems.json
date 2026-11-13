@@ -5,7 +5,7 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-11-13T09:07:39.595Z",
+  "updatedAt": "2026-11-13T09:07:57.376Z",
   "problems": [
     {
       "frontendId": "19",
@@ -84,6 +84,26 @@
           "path": "0287-find-the-duplicate-number/0287-find-the-duplicate-number.java",
           "sha": "72aa89c0b3a65d62c845b3bec6446eb5e8aae329",
           "lastSyncedAt": "2026-11-13T09:07:39.595Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "443",
+      "title": "String Compression",
+      "slug": "string-compression",
+      "problemName": "0443-string-compression",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/string-compression/",
+      "folderPath": "0443-string-compression/",
+      "readmePath": "0443-string-compression/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0443-string-compression.java",
+          "path": "0443-string-compression/0443-string-compression.java",
+          "sha": "c436c5ed66fc35c447a91dfe78671ece90021f71",
+          "lastSyncedAt": "2026-11-13T09:07:57.376Z"
         }
       ]
     }
