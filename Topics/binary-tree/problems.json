@@ -5,7 +5,7 @@
     "name": "Binary Tree",
     "tagId": "61057"
   },
-  "updatedAt": "2026-11-13T09:23:19.017Z",
+  "updatedAt": "2026-11-13T09:24:26.605Z",
   "problems": [
     {
       "frontendId": "98",
@@ -264,6 +264,26 @@
           "path": "0124-binary-tree-maximum-path-sum/0124-binary-tree-maximum-path-sum.java",
           "sha": "573a57d96705f019f4aa163c599e4bf531a07e17",
           "lastSyncedAt": "2026-11-13T09:13:24.434Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "145",
+      "title": "Binary Tree Postorder Traversal",
+      "slug": "binary-tree-postorder-traversal",
+      "problemName": "0145-binary-tree-postorder-traversal",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/binary-tree-postorder-traversal/",
+      "folderPath": "0145-binary-tree-postorder-traversal/",
+      "readmePath": "0145-binary-tree-postorder-traversal/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0145-binary-tree-postorder-traversal.java",
+          "path": "0145-binary-tree-postorder-traversal/0145-binary-tree-postorder-traversal.java",
+          "sha": "69fd3c7afe84c428839a016693e1d328b2ef3a41",
+          "lastSyncedAt": "2026-11-13T09:24:26.605Z"
         }
       ]
     },
