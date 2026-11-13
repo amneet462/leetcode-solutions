@@ -5,7 +5,7 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-11-13T03:35:49.876Z",
+  "updatedAt": "2026-11-13T03:36:14.251Z",
   "problems": [
     {
       "frontendId": "19",
@@ -24,6 +24,26 @@
           "path": "0019-remove-nth-node-from-end-of-list/0019-remove-nth-node-from-end-of-list.java",
           "sha": "8d40b70102a43afb5d55a22fa2a39c78abf73ba8",
           "lastSyncedAt": "2026-11-13T03:35:39.341Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "42",
+      "title": "Trapping Rain Water",
+      "slug": "trapping-rain-water",
+      "problemName": "0042-trapping-rain-water",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/trapping-rain-water/",
+      "folderPath": "0042-trapping-rain-water/",
+      "readmePath": "0042-trapping-rain-water/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0042-trapping-rain-water.java",
+          "path": "0042-trapping-rain-water/0042-trapping-rain-water.java",
+          "sha": "6b9c425d188e7c80cfe5878a917f639d1b9de8d6",
+          "lastSyncedAt": "2026-11-13T03:36:14.251Z"
         }
       ]
     },
