@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-13T09:20:26.369Z",
+  "updatedAt": "2026-11-13T09:20:36.455Z",
   "problems": [
     {
       "frontendId": "1",
@@ -464,6 +464,26 @@
           "path": "0682-baseball-game/0682-baseball-game.java",
           "sha": "4f49ad1c311f2370b79db0fba0cf4219fc786b20",
           "lastSyncedAt": "2026-11-13T09:04:44.595Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "724",
+      "title": "Find Pivot Index",
+      "slug": "find-pivot-index",
+      "problemName": "0724-find-pivot-index",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-pivot-index/",
+      "folderPath": "0724-find-pivot-index/",
+      "readmePath": "0724-find-pivot-index/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0724-find-pivot-index.java",
+          "path": "0724-find-pivot-index/0724-find-pivot-index.java",
+          "sha": "07cf356b91c90d9c53395f4cd576a1eda8ae01a0",
+          "lastSyncedAt": "2026-11-13T09:20:36.455Z"
         }
       ]
     },
