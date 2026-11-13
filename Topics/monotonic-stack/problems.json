@@ -5,8 +5,28 @@
     "name": "Monotonic Stack",
     "tagId": "61054"
   },
-  "updatedAt": "2026-11-13T03:32:08.658Z",
+  "updatedAt": "2026-11-13T03:36:14.251Z",
   "problems": [
+    {
+      "frontendId": "42",
+      "title": "Trapping Rain Water",
+      "slug": "trapping-rain-water",
+      "problemName": "0042-trapping-rain-water",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/trapping-rain-water/",
+      "folderPath": "0042-trapping-rain-water/",
+      "readmePath": "0042-trapping-rain-water/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0042-trapping-rain-water.java",
+          "path": "0042-trapping-rain-water/0042-trapping-rain-water.java",
+          "sha": "6b9c425d188e7c80cfe5878a917f639d1b9de8d6",
+          "lastSyncedAt": "2026-11-13T03:36:14.251Z"
+        }
+      ]
+    },
     {
       "frontendId": "402",
       "title": "Remove K Digits",
