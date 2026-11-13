@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-13T09:23:30.588Z",
+  "updatedAt": "2026-11-13T09:24:15.531Z",
   "problems": [
     {
       "frontendId": "17",
@@ -264,6 +264,26 @@
           "path": "2390-removing-stars-from-a-string/2390-removing-stars-from-a-string.java",
           "sha": "c6a285ae86120eb812d96a6735e822147623f07a",
           "lastSyncedAt": "2026-11-13T09:04:32.025Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3211",
+      "title": "Generate Binary Strings Without Adjacent Zeros",
+      "slug": "generate-binary-strings-without-adjacent-zeros",
+      "problemName": "3211-generate-binary-strings-without-adjacent-zeros",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/generate-binary-strings-without-adjacent-zeros/",
+      "folderPath": "3211-generate-binary-strings-without-adjacent-zeros/",
+      "readmePath": "3211-generate-binary-strings-without-adjacent-zeros/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3211-generate-binary-strings-without-adjacent-zeros.java",
+          "path": "3211-generate-binary-strings-without-adjacent-zeros/3211-generate-binary-strings-without-adjacent-zeros.java",
+          "sha": "47533321d03335aa38abd165d6522078b4c08500",
+          "lastSyncedAt": "2026-11-13T09:24:15.531Z"
         }
       ]
     }
