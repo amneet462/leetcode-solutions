@@ -5,7 +5,7 @@
     "name": "Binary Search",
     "tagId": "11"
   },
-  "updatedAt": "2026-11-13T09:29:40.552Z",
+  "updatedAt": "2026-11-13T09:29:59.503Z",
   "problems": [
     {
       "frontendId": "74",
@@ -184,6 +184,26 @@
           "path": "1004-max-consecutive-ones-iii/1004-max-consecutive-ones-iii.java",
           "sha": "b3ffc8b7e6ed5727131afb09d06f196f95529f0a",
           "lastSyncedAt": "2026-11-13T09:19:44.277Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1539",
+      "title": "Kth Missing Positive Number",
+      "slug": "kth-missing-positive-number",
+      "problemName": "1539-kth-missing-positive-number",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/kth-missing-positive-number/",
+      "folderPath": "1539-kth-missing-positive-number/",
+      "readmePath": "1539-kth-missing-positive-number/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1539-kth-missing-positive-number.java",
+          "path": "1539-kth-missing-positive-number/1539-kth-missing-positive-number.java",
+          "sha": "3012691ba69d4ed9861ba6c63e67f00ca4f3f17e",
+          "lastSyncedAt": "2026-11-13T09:29:59.503Z"
         }
       ]
     }
