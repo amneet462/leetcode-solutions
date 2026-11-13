@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-13T09:26:27.309Z",
+  "updatedAt": "2026-11-13T09:26:36.845Z",
   "problems": [
     {
       "frontendId": "1",
@@ -644,6 +644,26 @@
           "path": "0485-max-consecutive-ones/0485-max-consecutive-ones.java",
           "sha": "f1784e54bd56f4cdc66187822d77c2ac2f41aff0",
           "lastSyncedAt": "2026-11-13T09:19:58.903Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "496",
+      "title": "Next Greater Element I",
+      "slug": "next-greater-element-i",
+      "problemName": "0496-next-greater-element-i",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/next-greater-element-i/",
+      "folderPath": "0496-next-greater-element-i/",
+      "readmePath": "0496-next-greater-element-i/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0496-next-greater-element-i.java",
+          "path": "0496-next-greater-element-i/0496-next-greater-element-i.java",
+          "sha": "ac54106be064f6a6a90c8e16d6332e3e9747254c",
+          "lastSyncedAt": "2026-11-13T09:26:36.845Z"
         }
       ]
     },
