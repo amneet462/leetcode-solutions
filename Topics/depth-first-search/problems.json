@@ -5,7 +5,7 @@
     "name": "Depth-First Search",
     "tagId": "21"
   },
-  "updatedAt": "2026-11-13T09:16:32.398Z",
+  "updatedAt": "2026-11-13T09:16:45.553Z",
   "problems": [
     {
       "frontendId": "101",
@@ -344,6 +344,26 @@
           "path": "0662-maximum-width-of-binary-tree/0662-maximum-width-of-binary-tree.java",
           "sha": "f3d758d73a0be10634e62b5751d81b7bbe70a9ff",
           "lastSyncedAt": "2026-11-13T09:13:52.289Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "669",
+      "title": "Trim a Binary Search Tree",
+      "slug": "trim-a-binary-search-tree",
+      "problemName": "0669-trim-a-binary-search-tree",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/trim-a-binary-search-tree/",
+      "folderPath": "0669-trim-a-binary-search-tree/",
+      "readmePath": "0669-trim-a-binary-search-tree/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0669-trim-a-binary-search-tree.java",
+          "path": "0669-trim-a-binary-search-tree/0669-trim-a-binary-search-tree.java",
+          "sha": "5dff25adf63c243cee00b4dab7fd169dee4dccf0",
+          "lastSyncedAt": "2026-11-13T09:16:45.553Z"
         }
       ]
     },
