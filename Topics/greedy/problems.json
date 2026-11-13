@@ -5,7 +5,7 @@
     "name": "Greedy",
     "tagId": "17"
   },
-  "updatedAt": "2026-11-13T09:01:36.722Z",
+  "updatedAt": "2026-11-13T09:08:15.092Z",
   "problems": [
     {
       "frontendId": "402",
@@ -24,6 +24,26 @@
           "path": "0402-remove-k-digits/0402-remove-k-digits.java",
           "sha": "b513dfbd4c9cd9a16b65e59290b0c5838af67665",
           "lastSyncedAt": "2026-11-13T09:01:36.722Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "680",
+      "title": "Valid Palindrome II",
+      "slug": "valid-palindrome-ii",
+      "problemName": "0680-valid-palindrome-ii",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/valid-palindrome-ii/",
+      "folderPath": "0680-valid-palindrome-ii/",
+      "readmePath": "0680-valid-palindrome-ii/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0680-valid-palindrome-ii.java",
+          "path": "0680-valid-palindrome-ii/0680-valid-palindrome-ii.java",
+          "sha": "add6a4c332c177dbc638e210f3c570568b2bd3a0",
+          "lastSyncedAt": "2026-11-13T09:08:15.092Z"
         }
       ]
     }
