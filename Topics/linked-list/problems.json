@@ -5,7 +5,7 @@
     "name": "Linked List",
     "tagId": "7"
   },
-  "updatedAt": "2026-11-13T09:17:17.097Z",
+  "updatedAt": "2026-11-13T09:27:18.837Z",
   "problems": [
     {
       "frontendId": "19",
@@ -24,6 +24,26 @@
           "path": "0019-remove-nth-node-from-end-of-list/0019-remove-nth-node-from-end-of-list.java",
           "sha": "8d40b70102a43afb5d55a22fa2a39c78abf73ba8",
           "lastSyncedAt": "2026-11-13T09:07:00.092Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "24",
+      "title": "Swap Nodes in Pairs",
+      "slug": "swap-nodes-in-pairs",
+      "problemName": "0024-swap-nodes-in-pairs",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/swap-nodes-in-pairs/",
+      "folderPath": "0024-swap-nodes-in-pairs/",
+      "readmePath": "0024-swap-nodes-in-pairs/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0024-swap-nodes-in-pairs.java",
+          "path": "0024-swap-nodes-in-pairs/0024-swap-nodes-in-pairs.java",
+          "sha": "0918e9c1caae5486cecb05456657e0a343899cf5",
+          "lastSyncedAt": "2026-11-13T09:27:18.837Z"
         }
       ]
     },
