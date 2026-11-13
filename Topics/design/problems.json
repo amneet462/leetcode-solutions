@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "design",
+    "name": "Design",
+    "tagId": "25"
+  },
+  "updatedAt": "2026-11-13T03:31:53.215Z",
+  "problems": [
+    {
+      "frontendId": "901",
+      "title": "Online Stock Span",
+      "slug": "online-stock-span",
+      "problemName": "0901-online-stock-span",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/online-stock-span/",
+      "folderPath": "0901-online-stock-span/",
+      "readmePath": "0901-online-stock-span/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0901-online-stock-span.java",
+          "path": "0901-online-stock-span/0901-online-stock-span.java",
+          "sha": "c086464df7ef73698aab01a30acecdaa337d7f0c",
+          "lastSyncedAt": "2026-11-13T03:31:53.215Z"
+        }
+      ]
+    }
+  ]
+}
