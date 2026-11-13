@@ -5,8 +5,28 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-13T09:15:06.892Z",
+  "updatedAt": "2026-11-13T09:23:30.588Z",
   "problems": [
+    {
+      "frontendId": "17",
+      "title": "Letter Combinations of a Phone Number",
+      "slug": "letter-combinations-of-a-phone-number",
+      "problemName": "0017-letter-combinations-of-a-phone-number",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/letter-combinations-of-a-phone-number/",
+      "folderPath": "0017-letter-combinations-of-a-phone-number/",
+      "readmePath": "0017-letter-combinations-of-a-phone-number/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0017-letter-combinations-of-a-phone-number.java",
+          "path": "0017-letter-combinations-of-a-phone-number/0017-letter-combinations-of-a-phone-number.java",
+          "sha": "401768f9352f088bada9c9c41b529b6dc311a70f",
+          "lastSyncedAt": "2026-11-13T09:23:30.588Z"
+        }
+      ]
+    },
     {
       "frontendId": "20",
       "title": "Valid Parentheses",
