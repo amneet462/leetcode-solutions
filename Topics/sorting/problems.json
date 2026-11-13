@@ -5,8 +5,28 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-11-13T09:13:05.440Z",
+  "updatedAt": "2026-11-13T09:20:26.369Z",
   "problems": [
+    {
+      "frontendId": "15",
+      "title": "3Sum",
+      "slug": "3sum",
+      "problemName": "0015-3sum",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/3sum/",
+      "folderPath": "0015-3sum/",
+      "readmePath": "0015-3sum/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0015-3sum.java",
+          "path": "0015-3sum/0015-3sum.java",
+          "sha": "3837d1b197dedbdb2ee86ccd319cc6b888c2a3f4",
+          "lastSyncedAt": "2026-11-13T09:20:26.369Z"
+        }
+      ]
+    },
     {
       "frontendId": "75",
       "title": "Sort Colors",
