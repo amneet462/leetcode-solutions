@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-13T09:20:04.658Z",
+  "updatedAt": "2026-11-13T09:20:16.563Z",
   "problems": [
     {
       "frontendId": "1",
@@ -24,6 +24,26 @@
           "path": "0001-two-sum/0001-two-sum.java",
           "sha": "5731899686498b5b369ac41bc958178c46671a80",
           "lastSyncedAt": "2026-11-13T09:04:59.313Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "11",
+      "title": "Container With Most Water",
+      "slug": "container-with-most-water",
+      "problemName": "0011-container-with-most-water",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/container-with-most-water/",
+      "folderPath": "0011-container-with-most-water/",
+      "readmePath": "0011-container-with-most-water/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0011-container-with-most-water.java",
+          "path": "0011-container-with-most-water/0011-container-with-most-water.java",
+          "sha": "3373a503e2e5417de3fa8c229b864c95194c637c",
+          "lastSyncedAt": "2026-11-13T09:20:16.563Z"
         }
       ]
     },
