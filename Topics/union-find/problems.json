@@ -5,7 +5,7 @@
     "name": "Union-Find",
     "tagId": "23"
   },
-  "updatedAt": "2026-11-13T03:34:04.048Z",
+  "updatedAt": "2026-11-13T03:34:23.657Z",
   "problems": [
     {
       "frontendId": "785",
@@ -24,6 +24,26 @@
           "path": "0785-is-graph-bipartite/0785-is-graph-bipartite.java",
           "sha": "60a6d8600fb98f3d1ee3bbcfff6c71a09942c825",
           "lastSyncedAt": "2026-11-13T03:34:04.048Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1020",
+      "title": "Number of Enclaves",
+      "slug": "number-of-enclaves",
+      "problemName": "1020-number-of-enclaves",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-enclaves/",
+      "folderPath": "1020-number-of-enclaves/",
+      "readmePath": "1020-number-of-enclaves/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1020-number-of-enclaves.java",
+          "path": "1020-number-of-enclaves/1020-number-of-enclaves.java",
+          "sha": "d413a149cb2e9d7553a22c22935a2692bf749be7",
+          "lastSyncedAt": "2026-11-13T03:34:23.657Z"
         }
       ]
     }
