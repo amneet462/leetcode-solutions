@@ -5,7 +5,7 @@
     "name": "Binary Search Tree",
     "tagId": "30"
   },
-  "updatedAt": "2026-11-13T09:16:04.244Z",
+  "updatedAt": "2026-11-13T09:16:32.398Z",
   "problems": [
     {
       "frontendId": "108",
@@ -44,6 +44,26 @@
           "path": "0235-lowest-common-ancestor-of-a-binary-search-tree/0235-lowest-common-ancestor-of-a-binary-search-tree.java",
           "sha": "afbaa56bdf0ae9e3efb832728e2507732cf7ce4a",
           "lastSyncedAt": "2026-11-13T09:12:02.480Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "538",
+      "title": "Convert BST to Greater Tree",
+      "slug": "convert-bst-to-greater-tree",
+      "problemName": "0538-convert-bst-to-greater-tree",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/convert-bst-to-greater-tree/",
+      "folderPath": "0538-convert-bst-to-greater-tree/",
+      "readmePath": "0538-convert-bst-to-greater-tree/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0538-convert-bst-to-greater-tree.java",
+          "path": "0538-convert-bst-to-greater-tree/0538-convert-bst-to-greater-tree.java",
+          "sha": "0b38b2cbc7f7b5ab4349bf80241f56b1decafb32",
+          "lastSyncedAt": "2026-11-13T09:16:32.398Z"
         }
       ]
     }
