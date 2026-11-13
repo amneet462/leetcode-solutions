@@ -5,7 +5,7 @@
     "name": "Binary Tree",
     "tagId": "61057"
   },
-  "updatedAt": "2026-11-13T09:13:52.289Z",
+  "updatedAt": "2026-11-13T09:14:05.498Z",
   "problems": [
     {
       "frontendId": "103",
@@ -144,6 +144,26 @@
           "path": "0297-serialize-and-deserialize-binary-tree/0297-serialize-and-deserialize-binary-tree.java",
           "sha": "5969e8d3172b11a33f0140e188a223224ef18d35",
           "lastSyncedAt": "2026-11-13T09:12:36.809Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "572",
+      "title": "Subtree of Another Tree",
+      "slug": "subtree-of-another-tree",
+      "problemName": "0572-subtree-of-another-tree",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/subtree-of-another-tree/",
+      "folderPath": "0572-subtree-of-another-tree/",
+      "readmePath": "0572-subtree-of-another-tree/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0572-subtree-of-another-tree.java",
+          "path": "0572-subtree-of-another-tree/0572-subtree-of-another-tree.java",
+          "sha": "3eb480ca60d328d3cd917ecc67ffa94fa36de8ef",
+          "lastSyncedAt": "2026-11-13T09:14:05.498Z"
         }
       ]
     },
