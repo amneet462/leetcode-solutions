@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-11-13T03:34:51.711Z",
+  "updatedAt": "2026-11-13T03:36:14.251Z",
   "problems": [
     {
       "frontendId": "22",
@@ -24,6 +24,26 @@
           "path": "0022-generate-parentheses/0022-generate-parentheses.java",
           "sha": "bf8a7f2d7362ee49837f763c70b2074b6be7d57b",
           "lastSyncedAt": "2026-11-13T03:32:19.547Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "42",
+      "title": "Trapping Rain Water",
+      "slug": "trapping-rain-water",
+      "problemName": "0042-trapping-rain-water",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/trapping-rain-water/",
+      "folderPath": "0042-trapping-rain-water/",
+      "readmePath": "0042-trapping-rain-water/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0042-trapping-rain-water.java",
+          "path": "0042-trapping-rain-water/0042-trapping-rain-water.java",
+          "sha": "6b9c425d188e7c80cfe5878a917f639d1b9de8d6",
+          "lastSyncedAt": "2026-11-13T03:36:14.251Z"
         }
       ]
     },
