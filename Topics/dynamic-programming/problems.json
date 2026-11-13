@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-11-13T09:07:28.343Z",
+  "updatedAt": "2026-11-13T09:08:05.665Z",
   "problems": [
     {
       "frontendId": "22",
@@ -44,6 +44,26 @@
           "path": "0042-trapping-rain-water/0042-trapping-rain-water.java",
           "sha": "6b9c425d188e7c80cfe5878a917f639d1b9de8d6",
           "lastSyncedAt": "2026-11-13T09:07:28.343Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "392",
+      "title": "Is Subsequence",
+      "slug": "is-subsequence",
+      "problemName": "0392-is-subsequence",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/is-subsequence/",
+      "folderPath": "0392-is-subsequence/",
+      "readmePath": "0392-is-subsequence/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0392-is-subsequence.java",
+          "path": "0392-is-subsequence/0392-is-subsequence.java",
+          "sha": "17868225bb6aa3758346294a17d55930df33c075",
+          "lastSyncedAt": "2026-11-13T09:08:05.665Z"
         }
       ]
     },
