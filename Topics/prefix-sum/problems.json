@@ -5,7 +5,7 @@
     "name": "Prefix Sum",
     "tagId": "61068"
   },
-  "updatedAt": "2026-11-13T09:31:08.823Z",
+  "updatedAt": "2026-11-15T06:47:46.956Z",
   "problems": [
     {
       "frontendId": "209",
@@ -63,7 +63,7 @@
           "filename": "0560-subarray-sum-equals-k.java",
           "path": "0560-subarray-sum-equals-k/0560-subarray-sum-equals-k.java",
           "sha": "949453c8ae7800552b9d2b85822d8701ea45649c",
-          "lastSyncedAt": "2026-11-13T09:21:49.106Z"
+          "lastSyncedAt": "2026-11-15T06:47:46.956Z"
         }
       ]
     },
