@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-11-15T06:47:46.956Z",
+  "updatedAt": "2026-11-16T14:08:45.991Z",
   "problems": [
     {
       "frontendId": "1",
@@ -104,6 +104,26 @@
           "path": "0106-construct-binary-tree-from-inorder-and-postorder-traversal/0106-construct-binary-tree-from-inorder-and-postorder-traversal.java",
           "sha": "5b8c26b6ca26b682ed0ebd8064836807e59651be",
           "lastSyncedAt": "2026-11-13T09:14:35.913Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "128",
+      "title": "Longest Consecutive Sequence",
+      "slug": "longest-consecutive-sequence",
+      "problemName": "0128-longest-consecutive-sequence",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-consecutive-sequence/",
+      "folderPath": "0128-longest-consecutive-sequence/",
+      "readmePath": "0128-longest-consecutive-sequence/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0128-longest-consecutive-sequence.java",
+          "path": "0128-longest-consecutive-sequence/0128-longest-consecutive-sequence.java",
+          "sha": "7940388cf2cb05c1eec93c3fe907715dd4be32a2",
+          "lastSyncedAt": "2026-11-16T14:08:45.991Z"
         }
       ]
     },
