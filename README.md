@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 134 | 36 | 90 | 8 |
+| 135 | 36 | 91 | 8 |
 
 ## Activity
 
@@ -28,13 +28,13 @@ Contains topicwise list of solved problems.
 | 2026-11-01 | 2 |
 | 2026-11-03 | 2 |
 | 2026-11-05 | 1 |
-| 2026-11-16 | 1 |
+| 2026-11-16 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 69 | 51% |
+| Array | 70 | 52% |
 | Binary Tree | 36 | 27% |
 | Tree | 36 | 27% |
 | Depth-First Search | 34 | 25% |
@@ -49,7 +49,7 @@ Contains topicwise list of solved problems.
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 69 |
+| [Array](Topics/array/) | 70 |
 | [Backtracking](Topics/backtracking/) | 13 |
 | [Binary Lifting](Topics/binary-lifting/) | 2 |
 | [Binary Search](Topics/binary-search/) | 16 |
@@ -72,7 +72,7 @@ Contains topicwise list of solved problems.
 | [Graph Theory](Topics/graph/) | 4 |
 | [Greedy](Topics/greedy/) | 7 |
 | [Hash Function](Topics/hash-function/) | 1 |
-| [Hash Table](Topics/hash-table/) | 12 |
+| [Hash Table](Topics/hash-table/) | 13 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 1 |
 | [Linked List](Topics/linked-list/) | 9 |
 | [Lowest Common Ancestor](Topics/lowest-common-ancestor/) | 1 |
@@ -97,5 +97,5 @@ Contains topicwise list of solved problems.
 | [Topological Sort](Topics/topological-sort/) | 2 |
 | [Tree](Topics/tree/) | 36 |
 | [Two Pointers](Topics/two-pointers/) | 22 |
-| [Union-Find](Topics/union-find/) | 5 |
+| [Union-Find](Topics/union-find/) | 6 |
 <!---LeetHub Summary End-->
