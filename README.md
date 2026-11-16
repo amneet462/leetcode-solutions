@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 135 | 36 | 91 | 8 |
+| 136 | 36 | 92 | 8 |
 
 ## Activity
 
@@ -28,19 +28,19 @@ Contains topicwise list of solved problems.
 | 2026-11-01 | 2 |
 | 2026-11-03 | 2 |
 | 2026-11-05 | 1 |
-| 2026-11-16 | 2 |
+| 2026-11-16 | 3 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 70 | 52% |
-| Binary Tree | 36 | 27% |
-| Tree | 36 | 27% |
+| Array | 70 | 51% |
+| Binary Tree | 37 | 27% |
+| Tree | 37 | 27% |
 | Depth-First Search | 34 | 25% |
 | Stack | 27 | 20% |
 | Two Pointers | 22 | 16% |
-| Breadth-First Search | 20 | 15% |
+| Breadth-First Search | 21 | 15% |
 | String | 18 | 13% |
 | Binary Search | 16 | 12% |
 | Backtracking | 13 | 10% |
@@ -54,11 +54,11 @@ Contains topicwise list of solved problems.
 | [Binary Lifting](Topics/binary-lifting/) | 2 |
 | [Binary Search](Topics/binary-search/) | 16 |
 | [Binary Search Tree](Topics/binary-search-tree/) | 12 |
-| [Binary Tree](Topics/binary-tree/) | 36 |
+| [Binary Tree](Topics/binary-tree/) | 37 |
 | [Bipartite Graph](Topics/bipartite-graph/) | 1 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 5 |
 | [Bracket Sequences](Topics/bracket-sequences/) | 2 |
-| [Breadth-First Search](Topics/breadth-first-search/) | 20 |
+| [Breadth-First Search](Topics/breadth-first-search/) | 21 |
 | [Bubble Sort](Topics/bubble-sort/) | 1 |
 | [Data Stream](Topics/data-stream/) | 1 |
 | [Depth-First Search](Topics/depth-first-search/) | 34 |
@@ -95,7 +95,7 @@ Contains topicwise list of solved problems.
 | [String Matching](Topics/string-matching/) | 1 |
 | [Timsort](Topics/timsort/) | 1 |
 | [Topological Sort](Topics/topological-sort/) | 2 |
-| [Tree](Topics/tree/) | 36 |
+| [Tree](Topics/tree/) | 37 |
 | [Two Pointers](Topics/two-pointers/) | 22 |
 | [Union-Find](Topics/union-find/) | 6 |
 <!---LeetHub Summary End-->
