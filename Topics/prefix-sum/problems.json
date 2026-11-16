@@ -5,7 +5,7 @@
     "name": "Prefix Sum",
     "tagId": "61068"
   },
-  "updatedAt": "2026-11-15T06:47:46.956Z",
+  "updatedAt": "2026-11-16T01:18:07.167Z",
   "problems": [
     {
       "frontendId": "209",
@@ -24,6 +24,26 @@
           "path": "0209-minimum-size-subarray-sum/0209-minimum-size-subarray-sum.java",
           "sha": "0a2606e1eb690221702be6ceaa61a6e07cd4424e",
           "lastSyncedAt": "2026-11-13T09:20:04.658Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "238",
+      "title": "Product of Array Except Self",
+      "slug": "product-of-array-except-self",
+      "problemName": "0238-product-of-array-except-self",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/product-of-array-except-self/",
+      "folderPath": "0238-product-of-array-except-self/",
+      "readmePath": "0238-product-of-array-except-self/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0238-product-of-array-except-self.java",
+          "path": "0238-product-of-array-except-self/0238-product-of-array-except-self.java",
+          "sha": "899a9d4b0a900bd1c0cc9782b0eecb01eaa7403e",
+          "lastSyncedAt": "2026-11-16T01:18:07.167Z"
         }
       ]
     },
