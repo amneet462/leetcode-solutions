@@ -5,17 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 133 | 36 | 89 | 8 |
+| 134 | 36 | 90 | 8 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 0 days | 10 days | 71 |
+| 1 days | 10 days | 72 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-09-28 | 1 |
 | 2026-09-29 | 3 |
 | 2026-10-03 | 1 |
 | 2026-10-05 | 1 |
@@ -29,19 +28,20 @@ Contains topicwise list of solved problems.
 | 2026-11-01 | 2 |
 | 2026-11-03 | 2 |
 | 2026-11-05 | 1 |
+| 2026-11-16 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 68 | 51% |
+| Array | 69 | 51% |
 | Binary Tree | 36 | 27% |
 | Tree | 36 | 27% |
-| Depth-First Search | 34 | 26% |
+| Depth-First Search | 34 | 25% |
 | Stack | 27 | 20% |
-| Two Pointers | 22 | 17% |
+| Two Pointers | 22 | 16% |
 | Breadth-First Search | 20 | 15% |
-| String | 18 | 14% |
+| String | 18 | 13% |
 | Binary Search | 16 | 12% |
 | Backtracking | 13 | 10% |
 
@@ -49,7 +49,7 @@ Contains topicwise list of solved problems.
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 68 |
+| [Array](Topics/array/) | 69 |
 | [Backtracking](Topics/backtracking/) | 13 |
 | [Binary Lifting](Topics/binary-lifting/) | 2 |
 | [Binary Search](Topics/binary-search/) | 16 |
@@ -82,7 +82,7 @@ Contains topicwise list of solved problems.
 | [Monotonic Queue](Topics/monotonic-queue/) | 1 |
 | [Monotonic Stack](Topics/monotonic-stack/) | 11 |
 | [Pigeonhole Principle](Topics/pigeonhole-principle/) | 1 |
-| [Prefix Sum](Topics/prefix-sum/) | 6 |
+| [Prefix Sum](Topics/prefix-sum/) | 7 |
 | [Queue](Topics/queue/) | 3 |
 | [Quicksort](Topics/quicksort/) | 2 |
 | [Range Minimum/Maximum Query](Topics/range-minimum-maximum-query/) | 2 |
