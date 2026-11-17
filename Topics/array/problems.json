@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-16T14:35:24.318Z",
+  "updatedAt": "2026-11-17T13:40:34.004Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1084,6 +1084,26 @@
           "path": "0739-daily-temperatures/0739-daily-temperatures.java",
           "sha": "716ef4cc1c08c6c2b2f6133c30595b40519fccda",
           "lastSyncedAt": "2026-11-13T09:03:59.636Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "746",
+      "title": "Min Cost Climbing Stairs",
+      "slug": "min-cost-climbing-stairs",
+      "problemName": "0746-min-cost-climbing-stairs",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/min-cost-climbing-stairs/",
+      "folderPath": "0746-min-cost-climbing-stairs/",
+      "readmePath": "0746-min-cost-climbing-stairs/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0746-min-cost-climbing-stairs.java",
+          "path": "0746-min-cost-climbing-stairs/0746-min-cost-climbing-stairs.java",
+          "sha": "b5bd1ced1d48b0a5e0a5e6978e117d4df33c8066",
+          "lastSyncedAt": "2026-11-17T13:40:34.004Z"
         }
       ]
     },
