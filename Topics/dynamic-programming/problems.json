@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-11-17T13:47:37.825Z",
+  "updatedAt": "2026-11-17T13:54:16.164Z",
   "problems": [
     {
       "frontendId": "22",
@@ -204,6 +204,26 @@
           "path": "0198-house-robber/0198-house-robber.java",
           "sha": "fff7de4b2079ed659ad575c7f0f8e0a2c43755d0",
           "lastSyncedAt": "2026-11-17T13:47:37.825Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "213",
+      "title": "House Robber II",
+      "slug": "house-robber-ii",
+      "problemName": "0213-house-robber-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/house-robber-ii/",
+      "folderPath": "0213-house-robber-ii/",
+      "readmePath": "0213-house-robber-ii/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0213-house-robber-ii.java",
+          "path": "0213-house-robber-ii/0213-house-robber-ii.java",
+          "sha": "6fe8bb4dbd5aae789b676250fcb61a711cffb6b8",
+          "lastSyncedAt": "2026-11-17T13:54:16.164Z"
         }
       ]
     },
