@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 139 | 38 | 93 | 8 |
+| 140 | 38 | 94 | 8 |
 
 ## Activity
 
@@ -28,28 +28,28 @@ Contains topicwise list of solved problems.
 | 2026-11-03 | 2 |
 | 2026-11-05 | 1 |
 | 2026-11-16 | 3 |
-| 2026-11-17 | 3 |
+| 2026-11-17 | 4 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 72 | 52% |
-| Binary Tree | 37 | 27% |
-| Tree | 37 | 27% |
+| Array | 73 | 52% |
+| Binary Tree | 37 | 26% |
+| Tree | 37 | 26% |
 | Depth-First Search | 34 | 24% |
 | Stack | 27 | 19% |
 | Two Pointers | 22 | 16% |
 | Breadth-First Search | 21 | 15% |
 | String | 18 | 13% |
-| Binary Search | 16 | 12% |
-| Dynamic Programming | 15 | 11% |
+| Binary Search | 16 | 11% |
+| Dynamic Programming | 16 | 11% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 72 |
+| [Array](Topics/array/) | 73 |
 | [Backtracking](Topics/backtracking/) | 13 |
 | [Binary Lifting](Topics/binary-lifting/) | 2 |
 | [Binary Search](Topics/binary-search/) | 16 |
@@ -66,7 +66,7 @@ Contains topicwise list of solved problems.
 | [Directed Acyclic Graph](Topics/directed-acyclic-graph/) | 1 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 6 |
 | [DP on Trees](Topics/dp-on-trees/) | 2 |
-| [Dynamic Programming](Topics/dynamic-programming/) | 15 |
+| [Dynamic Programming](Topics/dynamic-programming/) | 16 |
 | [Floyd's Cycle Finding Algorithm](Topics/floyds-cycle-finding-algorithm/) | 2 |
 | [Graph Coloring](Topics/graph-coloring/) | 1 |
 | [Graph Theory](Topics/graph/) | 4 |
