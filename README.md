@@ -5,17 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 136 | 36 | 92 | 8 |
+| 137 | 37 | 92 | 8 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 1 days | 10 days | 72 |
+| 2 days | 10 days | 73 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-09-29 | 3 |
 | 2026-10-03 | 1 |
 | 2026-10-05 | 1 |
 | 2026-10-07 | 2 |
@@ -29,6 +28,7 @@ Contains topicwise list of solved problems.
 | 2026-11-03 | 2 |
 | 2026-11-05 | 1 |
 | 2026-11-16 | 3 |
+| 2026-11-17 | 1 |
 
 ## Top Tags
 
@@ -43,7 +43,7 @@ Contains topicwise list of solved problems.
 | Breadth-First Search | 21 | 15% |
 | String | 18 | 13% |
 | Binary Search | 16 | 12% |
-| Backtracking | 13 | 10% |
+| Backtracking | 13 | 9% |
 
 ## Topics
 
@@ -66,7 +66,7 @@ Contains topicwise list of solved problems.
 | [Directed Acyclic Graph](Topics/directed-acyclic-graph/) | 1 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 6 |
 | [DP on Trees](Topics/dp-on-trees/) | 2 |
-| [Dynamic Programming](Topics/dynamic-programming/) | 12 |
+| [Dynamic Programming](Topics/dynamic-programming/) | 13 |
 | [Floyd's Cycle Finding Algorithm](Topics/floyds-cycle-finding-algorithm/) | 2 |
 | [Graph Coloring](Topics/graph-coloring/) | 1 |
 | [Graph Theory](Topics/graph/) | 4 |
@@ -76,8 +76,9 @@ Contains topicwise list of solved problems.
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 1 |
 | [Linked List](Topics/linked-list/) | 9 |
 | [Lowest Common Ancestor](Topics/lowest-common-ancestor/) | 1 |
-| [Math](Topics/math/) | 3 |
+| [Math](Topics/math/) | 4 |
 | [Matrix](Topics/matrix/) | 10 |
+| [Memoization](Topics/memoization/) | 1 |
 | [Merge Sort](Topics/merge-sort/) | 1 |
 | [Monotonic Queue](Topics/monotonic-queue/) | 1 |
 | [Monotonic Stack](Topics/monotonic-stack/) | 11 |
