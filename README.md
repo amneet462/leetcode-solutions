@@ -5,17 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 140 | 38 | 94 | 8 |
+| 141 | 39 | 94 | 8 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 2 days | 10 days | 73 |
+| 1 days | 10 days | 74 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-10-03 | 1 |
 | 2026-10-05 | 1 |
 | 2026-10-07 | 2 |
 | 2026-10-17 | 1 |
@@ -29,12 +28,13 @@ Contains topicwise list of solved problems.
 | 2026-11-05 | 1 |
 | 2026-11-16 | 3 |
 | 2026-11-17 | 4 |
+| 2026-11-21 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 73 | 52% |
+| Array | 74 | 52% |
 | Binary Tree | 37 | 26% |
 | Tree | 37 | 26% |
 | Depth-First Search | 34 | 24% |
@@ -49,7 +49,7 @@ Contains topicwise list of solved problems.
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 73 |
+| [Array](Topics/array/) | 74 |
 | [Backtracking](Topics/backtracking/) | 13 |
 | [Binary Lifting](Topics/binary-lifting/) | 2 |
 | [Binary Search](Topics/binary-search/) | 16 |
@@ -89,7 +89,7 @@ Contains topicwise list of solved problems.
 | [Range Minimum/Maximum Query](Topics/range-minimum-maximum-query/) | 2 |
 | [Recursion](Topics/recursion/) | 5 |
 | [Simulation](Topics/simulation/) | 5 |
-| [Sliding Window](Topics/sliding-window/) | 6 |
+| [Sliding Window](Topics/sliding-window/) | 7 |
 | [Sorting](Topics/sorting/) | 9 |
 | [Stack](Topics/stack/) | 27 |
 | [String](Topics/string/) | 18 |
