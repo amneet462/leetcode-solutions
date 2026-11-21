@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 141 | 39 | 94 | 8 |
+| 142 | 39 | 95 | 8 |
 
 ## Activity
 
@@ -28,7 +28,7 @@ Contains topicwise list of solved problems.
 | 2026-11-05 | 1 |
 | 2026-11-16 | 3 |
 | 2026-11-17 | 4 |
-| 2026-11-21 | 1 |
+| 2026-11-21 | 2 |
 
 ## Top Tags
 
@@ -39,9 +39,9 @@ Contains topicwise list of solved problems.
 | Tree | 37 | 26% |
 | Depth-First Search | 34 | 24% |
 | Stack | 27 | 19% |
-| Two Pointers | 22 | 16% |
+| Two Pointers | 22 | 15% |
 | Breadth-First Search | 21 | 15% |
-| String | 18 | 13% |
+| String | 19 | 13% |
 | Binary Search | 16 | 11% |
 | Dynamic Programming | 16 | 11% |
 
@@ -72,7 +72,7 @@ Contains topicwise list of solved problems.
 | [Graph Theory](Topics/graph/) | 4 |
 | [Greedy](Topics/greedy/) | 7 |
 | [Hash Function](Topics/hash-function/) | 1 |
-| [Hash Table](Topics/hash-table/) | 13 |
+| [Hash Table](Topics/hash-table/) | 14 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 1 |
 | [Linked List](Topics/linked-list/) | 9 |
 | [Lowest Common Ancestor](Topics/lowest-common-ancestor/) | 1 |
@@ -89,10 +89,10 @@ Contains topicwise list of solved problems.
 | [Range Minimum/Maximum Query](Topics/range-minimum-maximum-query/) | 2 |
 | [Recursion](Topics/recursion/) | 5 |
 | [Simulation](Topics/simulation/) | 5 |
-| [Sliding Window](Topics/sliding-window/) | 7 |
+| [Sliding Window](Topics/sliding-window/) | 8 |
 | [Sorting](Topics/sorting/) | 9 |
 | [Stack](Topics/stack/) | 27 |
-| [String](Topics/string/) | 18 |
+| [String](Topics/string/) | 19 |
 | [String Matching](Topics/string-matching/) | 1 |
 | [Timsort](Topics/timsort/) | 1 |
 | [Topological Sort](Topics/topological-sort/) | 2 |
