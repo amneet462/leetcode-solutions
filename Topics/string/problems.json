@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-13T09:31:19.921Z",
+  "updatedAt": "2026-11-21T05:20:27.623Z",
   "problems": [
     {
       "frontendId": "8",
@@ -244,6 +244,26 @@
           "path": "0424-longest-repeating-character-replacement/0424-longest-repeating-character-replacement.java",
           "sha": "5349c008ef7f025f6f75ed965c4213c6bdceb747",
           "lastSyncedAt": "2026-11-13T09:30:32.171Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "438",
+      "title": "Find All Anagrams in a String",
+      "slug": "find-all-anagrams-in-a-string",
+      "problemName": "0438-find-all-anagrams-in-a-string",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/find-all-anagrams-in-a-string/",
+      "folderPath": "0438-find-all-anagrams-in-a-string/",
+      "readmePath": "0438-find-all-anagrams-in-a-string/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0438-find-all-anagrams-in-a-string.java",
+          "path": "0438-find-all-anagrams-in-a-string/0438-find-all-anagrams-in-a-string.java",
+          "sha": "fa1fe46b37b4bab8ee0e95bfce47e2c05abdde4b",
+          "lastSyncedAt": "2026-11-21T05:20:27.623Z"
         }
       ]
     },
