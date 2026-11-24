@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-11-22T09:29:27.641Z",
+  "updatedAt": "2026-11-24T05:53:36.639Z",
   "problems": [
     {
       "frontendId": "1",
@@ -124,6 +124,26 @@
           "path": "0128-longest-consecutive-sequence/0128-longest-consecutive-sequence.java",
           "sha": "7940388cf2cb05c1eec93c3fe907715dd4be32a2",
           "lastSyncedAt": "2026-11-16T14:08:45.991Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "141",
+      "title": "Linked List Cycle",
+      "slug": "linked-list-cycle",
+      "problemName": "0141-linked-list-cycle",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/linked-list-cycle/",
+      "folderPath": "0141-linked-list-cycle/",
+      "readmePath": "0141-linked-list-cycle/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0141-linked-list-cycle.java",
+          "path": "0141-linked-list-cycle/0141-linked-list-cycle.java",
+          "sha": "5d87897d6c641466537efa4ba4eca686c15b544b",
+          "lastSyncedAt": "2026-11-24T05:53:36.639Z"
         }
       ]
     },
