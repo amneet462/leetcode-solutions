@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 145 | 41 | 96 | 8 |
+| 146 | 42 | 96 | 8 |
 
 ## Activity
 
@@ -28,18 +28,18 @@ Contains topicwise list of solved problems.
 | 2026-11-16 | 3 |
 | 2026-11-17 | 4 |
 | 2026-11-21 | 2 |
-| 2026-11-24 | 3 |
+| 2026-11-24 | 4 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 75 | 52% |
-| Binary Tree | 37 | 26% |
-| Tree | 37 | 26% |
+| Array | 75 | 51% |
+| Binary Tree | 37 | 25% |
+| Tree | 37 | 25% |
 | Depth-First Search | 34 | 23% |
-| Stack | 27 | 19% |
-| Two Pointers | 23 | 16% |
+| Stack | 27 | 18% |
+| Two Pointers | 24 | 16% |
 | Breadth-First Search | 22 | 15% |
 | String | 19 | 13% |
 | Dynamic Programming | 18 | 12% |
@@ -76,7 +76,7 @@ Contains topicwise list of solved problems.
 | [Hash Table](Topics/hash-table/) | 15 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 1 |
 | [Knapsack Problem](Topics/knapsack-problem/) | 1 |
-| [Linked List](Topics/linked-list/) | 10 |
+| [Linked List](Topics/linked-list/) | 11 |
 | [Lowest Common Ancestor](Topics/lowest-common-ancestor/) | 1 |
 | [Math](Topics/math/) | 5 |
 | [Matrix](Topics/matrix/) | 10 |
@@ -99,6 +99,6 @@ Contains topicwise list of solved problems.
 | [Timsort](Topics/timsort/) | 1 |
 | [Topological Sort](Topics/topological-sort/) | 2 |
 | [Tree](Topics/tree/) | 37 |
-| [Two Pointers](Topics/two-pointers/) | 23 |
+| [Two Pointers](Topics/two-pointers/) | 24 |
 | [Union-Find](Topics/union-find/) | 6 |
 <!---LeetHub Summary End-->
