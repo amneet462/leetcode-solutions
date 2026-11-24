@@ -5,17 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 142 | 39 | 95 | 8 |
+| 143 | 40 | 95 | 8 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 1 days | 10 days | 74 |
+| 1 days | 10 days | 75 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-10-05 | 1 |
 | 2026-10-07 | 2 |
 | 2026-10-17 | 1 |
 | 2026-10-18 | 3 |
@@ -29,6 +28,7 @@ Contains topicwise list of solved problems.
 | 2026-11-16 | 3 |
 | 2026-11-17 | 4 |
 | 2026-11-21 | 2 |
+| 2026-11-24 | 1 |
 
 ## Top Tags
 
@@ -42,8 +42,8 @@ Contains topicwise list of solved problems.
 | Two Pointers | 22 | 15% |
 | Breadth-First Search | 21 | 15% |
 | String | 19 | 13% |
+| Dynamic Programming | 17 | 12% |
 | Binary Search | 16 | 11% |
-| Dynamic Programming | 16 | 11% |
 
 ## Topics
 
@@ -66,7 +66,7 @@ Contains topicwise list of solved problems.
 | [Directed Acyclic Graph](Topics/directed-acyclic-graph/) | 1 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 6 |
 | [DP on Trees](Topics/dp-on-trees/) | 2 |
-| [Dynamic Programming](Topics/dynamic-programming/) | 16 |
+| [Dynamic Programming](Topics/dynamic-programming/) | 17 |
 | [Floyd's Cycle Finding Algorithm](Topics/floyds-cycle-finding-algorithm/) | 2 |
 | [Graph Coloring](Topics/graph-coloring/) | 1 |
 | [Graph Theory](Topics/graph/) | 4 |
@@ -76,9 +76,9 @@ Contains topicwise list of solved problems.
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 1 |
 | [Linked List](Topics/linked-list/) | 9 |
 | [Lowest Common Ancestor](Topics/lowest-common-ancestor/) | 1 |
-| [Math](Topics/math/) | 4 |
+| [Math](Topics/math/) | 5 |
 | [Matrix](Topics/matrix/) | 10 |
-| [Memoization](Topics/memoization/) | 1 |
+| [Memoization](Topics/memoization/) | 2 |
 | [Merge Sort](Topics/merge-sort/) | 1 |
 | [Monotonic Queue](Topics/monotonic-queue/) | 1 |
 | [Monotonic Stack](Topics/monotonic-stack/) | 11 |
@@ -87,7 +87,7 @@ Contains topicwise list of solved problems.
 | [Queue](Topics/queue/) | 3 |
 | [Quicksort](Topics/quicksort/) | 2 |
 | [Range Minimum/Maximum Query](Topics/range-minimum-maximum-query/) | 2 |
-| [Recursion](Topics/recursion/) | 5 |
+| [Recursion](Topics/recursion/) | 6 |
 | [Simulation](Topics/simulation/) | 5 |
 | [Sliding Window](Topics/sliding-window/) | 8 |
 | [Sorting](Topics/sorting/) | 9 |
