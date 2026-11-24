@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 147 | 42 | 97 | 8 |
+| 148 | 42 | 98 | 8 |
 
 ## Activity
 
@@ -28,7 +28,7 @@ Contains topicwise list of solved problems.
 | 2026-11-16 | 3 |
 | 2026-11-17 | 4 |
 | 2026-11-21 | 2 |
-| 2026-11-24 | 5 |
+| 2026-11-24 | 6 |
 
 ## Top Tags
 
@@ -76,9 +76,9 @@ Contains topicwise list of solved problems.
 | [Hash Table](Topics/hash-table/) | 16 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 1 |
 | [Knapsack Problem](Topics/knapsack-problem/) | 1 |
-| [Linked List](Topics/linked-list/) | 12 |
+| [Linked List](Topics/linked-list/) | 13 |
 | [Lowest Common Ancestor](Topics/lowest-common-ancestor/) | 1 |
-| [Math](Topics/math/) | 5 |
+| [Math](Topics/math/) | 6 |
 | [Matrix](Topics/matrix/) | 10 |
 | [Memoization](Topics/memoization/) | 2 |
 | [Merge Sort](Topics/merge-sort/) | 1 |
@@ -89,7 +89,7 @@ Contains topicwise list of solved problems.
 | [Queue](Topics/queue/) | 3 |
 | [Quicksort](Topics/quicksort/) | 2 |
 | [Range Minimum/Maximum Query](Topics/range-minimum-maximum-query/) | 2 |
-| [Recursion](Topics/recursion/) | 6 |
+| [Recursion](Topics/recursion/) | 7 |
 | [Simulation](Topics/simulation/) | 5 |
 | [Sliding Window](Topics/sliding-window/) | 8 |
 | [Sorting](Topics/sorting/) | 9 |
