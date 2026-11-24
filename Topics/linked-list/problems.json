@@ -5,8 +5,28 @@
     "name": "Linked List",
     "tagId": "7"
   },
-  "updatedAt": "2026-11-24T08:06:06.504Z",
+  "updatedAt": "2026-11-24T08:21:54.689Z",
   "problems": [
+    {
+      "frontendId": "2",
+      "title": "Add Two Numbers",
+      "slug": "add-two-numbers",
+      "problemName": "0002-add-two-numbers",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/add-two-numbers/",
+      "folderPath": "0002-add-two-numbers/",
+      "readmePath": "0002-add-two-numbers/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0002-add-two-numbers.java",
+          "path": "0002-add-two-numbers/0002-add-two-numbers.java",
+          "sha": "fbc1cd741e8a4e4843d8641e631f5f26b805154d",
+          "lastSyncedAt": "2026-11-24T08:21:54.689Z"
+        }
+      ]
+    },
     {
       "frontendId": "19",
       "title": "Remove Nth Node From End of List",
