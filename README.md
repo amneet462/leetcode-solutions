@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 144 | 40 | 96 | 8 |
+| 145 | 41 | 96 | 8 |
 
 ## Activity
 
@@ -28,7 +28,7 @@ Contains topicwise list of solved problems.
 | 2026-11-16 | 3 |
 | 2026-11-17 | 4 |
 | 2026-11-21 | 2 |
-| 2026-11-24 | 2 |
+| 2026-11-24 | 3 |
 
 ## Top Tags
 
@@ -37,12 +37,12 @@ Contains topicwise list of solved problems.
 | Array | 75 | 52% |
 | Binary Tree | 37 | 26% |
 | Tree | 37 | 26% |
-| Depth-First Search | 34 | 24% |
+| Depth-First Search | 34 | 23% |
 | Stack | 27 | 19% |
+| Two Pointers | 23 | 16% |
 | Breadth-First Search | 22 | 15% |
-| Two Pointers | 22 | 15% |
 | String | 19 | 13% |
-| Dynamic Programming | 18 | 13% |
+| Dynamic Programming | 18 | 12% |
 | Binary Search | 16 | 11% |
 
 ## Topics
@@ -68,15 +68,15 @@ Contains topicwise list of solved problems.
 | [Divide and Conquer](Topics/divide-and-conquer/) | 6 |
 | [DP on Trees](Topics/dp-on-trees/) | 2 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 18 |
-| [Floyd's Cycle Finding Algorithm](Topics/floyds-cycle-finding-algorithm/) | 2 |
+| [Floyd's Cycle Finding Algorithm](Topics/floyds-cycle-finding-algorithm/) | 3 |
 | [Graph Coloring](Topics/graph-coloring/) | 1 |
 | [Graph Theory](Topics/graph/) | 4 |
 | [Greedy](Topics/greedy/) | 7 |
 | [Hash Function](Topics/hash-function/) | 1 |
-| [Hash Table](Topics/hash-table/) | 14 |
+| [Hash Table](Topics/hash-table/) | 15 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 1 |
 | [Knapsack Problem](Topics/knapsack-problem/) | 1 |
-| [Linked List](Topics/linked-list/) | 9 |
+| [Linked List](Topics/linked-list/) | 10 |
 | [Lowest Common Ancestor](Topics/lowest-common-ancestor/) | 1 |
 | [Math](Topics/math/) | 5 |
 | [Matrix](Topics/matrix/) | 10 |
@@ -99,6 +99,6 @@ Contains topicwise list of solved problems.
 | [Timsort](Topics/timsort/) | 1 |
 | [Topological Sort](Topics/topological-sort/) | 2 |
 | [Tree](Topics/tree/) | 37 |
-| [Two Pointers](Topics/two-pointers/) | 22 |
+| [Two Pointers](Topics/two-pointers/) | 23 |
 | [Union-Find](Topics/union-find/) | 6 |
 <!---LeetHub Summary End-->
