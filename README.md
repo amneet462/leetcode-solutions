@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 146 | 42 | 96 | 8 |
+| 147 | 42 | 97 | 8 |
 
 ## Activity
 
@@ -28,7 +28,7 @@ Contains topicwise list of solved problems.
 | 2026-11-16 | 3 |
 | 2026-11-17 | 4 |
 | 2026-11-21 | 2 |
-| 2026-11-24 | 4 |
+| 2026-11-24 | 5 |
 
 ## Top Tags
 
@@ -39,7 +39,7 @@ Contains topicwise list of solved problems.
 | Tree | 37 | 25% |
 | Depth-First Search | 34 | 23% |
 | Stack | 27 | 18% |
-| Two Pointers | 24 | 16% |
+| Two Pointers | 25 | 17% |
 | Breadth-First Search | 22 | 15% |
 | String | 19 | 13% |
 | Dynamic Programming | 18 | 12% |
@@ -68,15 +68,15 @@ Contains topicwise list of solved problems.
 | [Divide and Conquer](Topics/divide-and-conquer/) | 6 |
 | [DP on Trees](Topics/dp-on-trees/) | 2 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 18 |
-| [Floyd's Cycle Finding Algorithm](Topics/floyds-cycle-finding-algorithm/) | 3 |
+| [Floyd's Cycle Finding Algorithm](Topics/floyds-cycle-finding-algorithm/) | 4 |
 | [Graph Coloring](Topics/graph-coloring/) | 1 |
 | [Graph Theory](Topics/graph/) | 4 |
 | [Greedy](Topics/greedy/) | 7 |
 | [Hash Function](Topics/hash-function/) | 1 |
-| [Hash Table](Topics/hash-table/) | 15 |
+| [Hash Table](Topics/hash-table/) | 16 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 1 |
 | [Knapsack Problem](Topics/knapsack-problem/) | 1 |
-| [Linked List](Topics/linked-list/) | 11 |
+| [Linked List](Topics/linked-list/) | 12 |
 | [Lowest Common Ancestor](Topics/lowest-common-ancestor/) | 1 |
 | [Math](Topics/math/) | 5 |
 | [Matrix](Topics/matrix/) | 10 |
@@ -99,6 +99,6 @@ Contains topicwise list of solved problems.
 | [Timsort](Topics/timsort/) | 1 |
 | [Topological Sort](Topics/topological-sort/) | 2 |
 | [Tree](Topics/tree/) | 37 |
-| [Two Pointers](Topics/two-pointers/) | 24 |
+| [Two Pointers](Topics/two-pointers/) | 25 |
 | [Union-Find](Topics/union-find/) | 6 |
 <!---LeetHub Summary End-->
