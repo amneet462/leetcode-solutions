@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 143 | 40 | 95 | 8 |
+| 144 | 40 | 96 | 8 |
 
 ## Activity
 
@@ -28,28 +28,28 @@ Contains topicwise list of solved problems.
 | 2026-11-16 | 3 |
 | 2026-11-17 | 4 |
 | 2026-11-21 | 2 |
-| 2026-11-24 | 1 |
+| 2026-11-24 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 74 | 52% |
+| Array | 75 | 52% |
 | Binary Tree | 37 | 26% |
 | Tree | 37 | 26% |
 | Depth-First Search | 34 | 24% |
 | Stack | 27 | 19% |
+| Breadth-First Search | 22 | 15% |
 | Two Pointers | 22 | 15% |
-| Breadth-First Search | 21 | 15% |
 | String | 19 | 13% |
-| Dynamic Programming | 17 | 12% |
+| Dynamic Programming | 18 | 13% |
 | Binary Search | 16 | 11% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 74 |
+| [Array](Topics/array/) | 75 |
 | [Backtracking](Topics/backtracking/) | 13 |
 | [Binary Lifting](Topics/binary-lifting/) | 2 |
 | [Binary Search](Topics/binary-search/) | 16 |
@@ -58,15 +58,16 @@ Contains topicwise list of solved problems.
 | [Bipartite Graph](Topics/bipartite-graph/) | 1 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 5 |
 | [Bracket Sequences](Topics/bracket-sequences/) | 2 |
-| [Breadth-First Search](Topics/breadth-first-search/) | 21 |
+| [Breadth-First Search](Topics/breadth-first-search/) | 22 |
 | [Bubble Sort](Topics/bubble-sort/) | 1 |
+| [Complete Knapsack](Topics/complete-knapsack/) | 1 |
 | [Data Stream](Topics/data-stream/) | 1 |
 | [Depth-First Search](Topics/depth-first-search/) | 34 |
 | [Design](Topics/design/) | 5 |
 | [Directed Acyclic Graph](Topics/directed-acyclic-graph/) | 1 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 6 |
 | [DP on Trees](Topics/dp-on-trees/) | 2 |
-| [Dynamic Programming](Topics/dynamic-programming/) | 17 |
+| [Dynamic Programming](Topics/dynamic-programming/) | 18 |
 | [Floyd's Cycle Finding Algorithm](Topics/floyds-cycle-finding-algorithm/) | 2 |
 | [Graph Coloring](Topics/graph-coloring/) | 1 |
 | [Graph Theory](Topics/graph/) | 4 |
@@ -74,6 +75,7 @@ Contains topicwise list of solved problems.
 | [Hash Function](Topics/hash-function/) | 1 |
 | [Hash Table](Topics/hash-table/) | 14 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 1 |
+| [Knapsack Problem](Topics/knapsack-problem/) | 1 |
 | [Linked List](Topics/linked-list/) | 9 |
 | [Lowest Common Ancestor](Topics/lowest-common-ancestor/) | 1 |
 | [Math](Topics/math/) | 5 |
