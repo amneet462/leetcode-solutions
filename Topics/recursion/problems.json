@@ -5,7 +5,7 @@
     "name": "Recursion",
     "tagId": "31"
   },
-  "updatedAt": "2026-11-24T08:42:21.125Z",
+  "updatedAt": "2026-11-24T10:14:29.786Z",
   "problems": [
     {
       "frontendId": "2",
@@ -63,7 +63,7 @@
           "filename": "0024-swap-nodes-in-pairs.java",
           "path": "0024-swap-nodes-in-pairs/0024-swap-nodes-in-pairs.java",
           "sha": "0918e9c1caae5486cecb05456657e0a343899cf5",
-          "lastSyncedAt": "2026-11-13T09:27:18.837Z"
+          "lastSyncedAt": "2026-11-24T10:14:29.786Z"
         }
       ]
     },
