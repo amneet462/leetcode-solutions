@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "knapsack-problem",
+    "name": "Knapsack Problem",
+    "tagId": "74909"
+  },
+  "updatedAt": "2026-11-24T04:59:57.922Z",
+  "problems": [
+    {
+      "frontendId": "322",
+      "title": "Coin Change",
+      "slug": "coin-change",
+      "problemName": "0322-coin-change",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/coin-change/",
+      "folderPath": "0322-coin-change/",
+      "readmePath": "0322-coin-change/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0322-coin-change.java",
+          "path": "0322-coin-change/0322-coin-change.java",
+          "sha": "9167b8115d33c1e9699292d1839797a6e887ccdb",
+          "lastSyncedAt": "2026-11-24T04:59:57.922Z"
+        }
+      ]
+    }
+  ]
+}
