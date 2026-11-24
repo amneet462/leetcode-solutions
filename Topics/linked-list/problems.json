@@ -5,7 +5,7 @@
     "name": "Linked List",
     "tagId": "7"
   },
-  "updatedAt": "2026-11-24T05:50:41.036Z",
+  "updatedAt": "2026-11-24T05:53:36.639Z",
   "problems": [
     {
       "frontendId": "19",
@@ -144,6 +144,26 @@
           "path": "0114-flatten-binary-tree-to-linked-list/0114-flatten-binary-tree-to-linked-list.java",
           "sha": "05d55a4e403125882c8545931e5104f2918456d9",
           "lastSyncedAt": "2026-11-13T09:12:21.970Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "141",
+      "title": "Linked List Cycle",
+      "slug": "linked-list-cycle",
+      "problemName": "0141-linked-list-cycle",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/linked-list-cycle/",
+      "folderPath": "0141-linked-list-cycle/",
+      "readmePath": "0141-linked-list-cycle/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0141-linked-list-cycle.java",
+          "path": "0141-linked-list-cycle/0141-linked-list-cycle.java",
+          "sha": "5d87897d6c641466537efa4ba4eca686c15b544b",
+          "lastSyncedAt": "2026-11-24T05:53:36.639Z"
         }
       ]
     },
