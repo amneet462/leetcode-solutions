@@ -5,7 +5,7 @@
     "name": "Recursion",
     "tagId": "31"
   },
-  "updatedAt": "2026-11-13T09:29:24.595Z",
+  "updatedAt": "2026-11-24T03:17:48.762Z",
   "problems": [
     {
       "frontendId": "21",
@@ -84,6 +84,26 @@
           "path": "0394-decode-string/0394-decode-string.java",
           "sha": "50fde2eabe16d2b4149d1752c40d119705286f72",
           "lastSyncedAt": "2026-11-13T09:01:46.967Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "509",
+      "title": "Fibonacci Number",
+      "slug": "fibonacci-number",
+      "problemName": "0509-fibonacci-number",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/fibonacci-number/",
+      "folderPath": "0509-fibonacci-number/",
+      "readmePath": "0509-fibonacci-number/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0509-fibonacci-number.java",
+          "path": "0509-fibonacci-number/0509-fibonacci-number.java",
+          "sha": "f2ccc7d15cacd75543936cf968459796f423c740",
+          "lastSyncedAt": "2026-11-24T03:17:48.762Z"
         }
       ]
     },
