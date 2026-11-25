@@ -5,17 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 148 | 42 | 98 | 8 |
+| 149 | 42 | 99 | 8 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 1 days | 10 days | 75 |
+| 2 days | 10 days | 76 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-10-07 | 2 |
 | 2026-10-17 | 1 |
 | 2026-10-18 | 3 |
 | 2026-10-21 | 1 |
@@ -29,12 +28,13 @@ Contains topicwise list of solved problems.
 | 2026-11-17 | 4 |
 | 2026-11-21 | 2 |
 | 2026-11-24 | 6 |
+| 2026-11-25 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 75 | 51% |
+| Array | 75 | 50% |
 | Binary Tree | 37 | 25% |
 | Tree | 37 | 25% |
 | Depth-First Search | 34 | 23% |
@@ -76,7 +76,7 @@ Contains topicwise list of solved problems.
 | [Hash Table](Topics/hash-table/) | 16 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 1 |
 | [Knapsack Problem](Topics/knapsack-problem/) | 1 |
-| [Linked List](Topics/linked-list/) | 13 |
+| [Linked List](Topics/linked-list/) | 14 |
 | [Lowest Common Ancestor](Topics/lowest-common-ancestor/) | 1 |
 | [Math](Topics/math/) | 6 |
 | [Matrix](Topics/matrix/) | 10 |
