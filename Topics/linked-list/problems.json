@@ -5,7 +5,7 @@
     "name": "Linked List",
     "tagId": "7"
   },
-  "updatedAt": "2026-11-24T10:14:29.786Z",
+  "updatedAt": "2026-11-25T04:32:20.179Z",
   "problems": [
     {
       "frontendId": "2",
@@ -244,6 +244,26 @@
           "path": "0148-sort-list/0148-sort-list.java",
           "sha": "f64714d6cf066a740c70a56664c29cb838f107c8",
           "lastSyncedAt": "2026-11-13T09:27:46.098Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "328",
+      "title": "Odd Even Linked List",
+      "slug": "odd-even-linked-list",
+      "problemName": "0328-odd-even-linked-list",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/odd-even-linked-list/",
+      "folderPath": "0328-odd-even-linked-list/",
+      "readmePath": "0328-odd-even-linked-list/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0328-odd-even-linked-list.java",
+          "path": "0328-odd-even-linked-list/0328-odd-even-linked-list.java",
+          "sha": "ef48f8a3ac9bc73da6a4696e48d151eeae0a10d1",
+          "lastSyncedAt": "2026-11-25T04:32:20.179Z"
         }
       ]
     },
